@@ -1,0 +1,2852 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: vi\n"
+"X-Generator: Poedit 2.0.6\n"
+
+msgid "(Statistic collected from: %s %d)"
+msgstr "(Số liệu thống kê được thu thập từ: %s% d)"
+
+msgid "(zip)"
+msgstr "(Zip)"
+
+msgid "+SKU"
+msgstr "+ Mã hàng"
+
+msgid "12 hours recommended"
+msgstr "Khuyến nghị 12 giờ"
+
+msgid ""
+"Note for admin: Create folder for custom extensions in wp-content folder: tab "
+"Advanced -> Options -> Custom extensions folder"
+msgstr ""
+"Lưu ý cho quản trị viên : Tạo thư mục cho tiện ích mở rộng tùy chỉnh trong thư "
+"mục wp-content: tab Nâng cao -> Tùy chọn -> Thư mục tiện ích mở rộng tùy chỉnh"
+
+msgid "ver.: %s"
+msgstr "ver: %s"
+
+msgid "AND"
+msgstr "VÀ"
+
+msgid ""
+"AND or OR: if to select AND and on the site front select 2 terms - will be "
+"found products which contains both terms on the same time."
+msgstr ""
+"VÀ hoặc HOẶC: nếu để chọn VÀ và trên trang web, hãy chọn 2 điều khoản - sẽ tìm "
+"thấy các sản phẩm chứa cả hai điều khoản cùng một lúc."
+
+msgid "ASC"
+msgstr "TĂNG DẦN"
+
+msgid ""
+"ATTENTION! Your version of the woocommerce plugin is too obsolete. There is no "
+"warranty for working with WOOF!!"
+msgstr ""
+"CHÚ Ý! Phiên bản plugin woocommerce của bạn đã quá lỗi thời. Không có bảo hành "
+"khi làm việc với WOOF !!"
+
+msgid ""
+"Ability to search by the description of the any variation in the variable "
+"product"
+msgstr ""
+"Khả năng tìm kiếm theo mô tả của bất kỳ biến thể nào trong sản phẩm biến đổi"
+
+msgid "About extension"
+msgstr "Giới thiệu về phần mở rộng"
+
+msgid "Action"
+msgstr "Hoạt động"
+
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Diễn: Đã thất bại. Hãy tải lại trang này đi và thử lại xem."
+
+msgid "Activates the ability to search by SKU from the same text-input"
+msgstr "Kích hoạt khả năng tìm kiếm theo SKU từ cùng một kiểu nhập văn bản"
+
+msgid "Actualized for WooCommerce v.%s.x"
+msgstr "Thực tế cho WooCommerce v.%s.x"
+
+msgid "Add"
+msgstr "Thêm"
+
+msgid "Add Custom key by hands"
+msgstr "Thêm phím tùy chỉnh bằng tay"
+
+msgid "Add section"
+msgstr "Thêm phần"
+
+msgid "Add this query"
+msgstr "Thêm truy vấn này"
+
+msgid "Additional Quick-search Filter options"
+msgstr "Các tùy chọn Bộ lọc tìm kiếm nhanh bổ sung"
+
+msgid "Additional search data for text search"
+msgstr "Dữ liệu tìm kiếm bổ sung cho tìm kiếm văn bản"
+
+msgid ""
+"Additional search data: which taxonomies terms titles should be included into "
+"TEXT search data file. So, your customers will be able to find with TEXT "
+"search input also products using your taxonomies terms titles! After selecting "
+"new taxonomies here do not forget press Save and then Reassemble data file!"
+msgstr ""
+"Dữ liệu tìm kiếm bổ sung: tiêu đề cụm từ phân loại nào nên được đưa vào tệp dữ "
+"liệu tìm kiếm TEXT. Vì vậy, khách hàng của bạn sẽ có thể tìm thấy với đầu vào "
+"tìm kiếm TEXT cũng các sản phẩm bằng cách sử dụng tiêu đề cụm từ phân loại của "
+"bạn! Sau khi chọn các đơn vị phân loại mới tại đây, đừng quên nhấn Lưu và sau "
+"đó Lắp ráp lại tệp dữ liệu!"
+
+msgid "Additional text before"
+msgstr "Văn bản bổ sung trước"
+
+msgid "Adv"
+msgstr "Tư vấn"
+
+msgid "Advanced"
+msgstr "Nâng cao"
+
+msgid "Advanced info is here"
+msgstr "Advanced info is nhấn vào đây."
+
+msgid ""
+"After activation of Turbo Mode firstly what should be done is generating of "
+"the data file, see button below. And also do not forget to set cron mode."
+msgstr ""
+"Sau khi kích hoạt Chế độ Turbo, trước hết việc cần làm là tạo tệp dữ liệu, hãy "
+"xem nút bên dưới. Và cũng đừng quên thiết lập chế độ cron."
+
+msgid "After installing all settings for statistics assembling - enable it here"
+msgstr ""
+"Sau khi cài đặt tất cả các cài đặt để tập hợp thống kê - hãy kích hoạt nó ở đây"
+
+msgid "All"
+msgstr "Tất cả"
+
+msgid ""
+"Allows to wrap filter-elements into [close/open]-sections and make filter form "
+"more compact."
+msgstr ""
+"Cho phép bọc các phần tử bộ lọc thành các phần [đóng / mở] và làm cho hình "
+"thức bộ lọc nhỏ gọn hơn."
+
+msgid "Any"
+msgstr "Bất kì"
+
+msgid "Any image for closed html-items block 20x20"
+msgstr "Bất kỳ hình ảnh nào cho khối html-items đã đóng 20x20"
+
+msgid "Any image for opened html-items block 20x20"
+msgstr "Bất kỳ hình ảnh nào cho khối html-items đã mở 20x20"
+
+msgid "Any notes for customer."
+msgstr "Mọi lưu ý cho khách hàng."
+
+msgid "Any notes for customer"
+msgstr "Mọi lưu ý cho khách hàng"
+
+msgid "Any text notes for customer under subscription form."
+msgstr "Mọi văn bản ghi chú cho khách hàng dưới hình thức đăng ký."
+
+msgid ""
+"Any text notes for customer. Example: Sorry! This product is not suitable for "
+"your search %title%."
+msgstr ""
+"Bất kỳ văn bản ghi chú cho khách hàng. Ví dụ: Xin lỗi! Sản phẩm này không phù "
+"hợp với% title% tìm kiếm của bạn."
+
+msgid ""
+"Any text notes for customer. Example: This product matches your search: %title"
+"%."
+msgstr ""
+"Bất kỳ văn bản ghi chú cho khách hàng. Ví dụ: Sản phẩm này phù hợp với tìm "
+"kiếm của bạn:% title%."
+
+msgid "Are you sure?"
+msgstr "Bạn có chắc không?"
+
+msgid "As checkbox"
+msgstr "Như hộp kiểm"
+
+msgid "As drop-down"
+msgstr "Dưới dạng trình đơn thả xuống"
+
+msgid "As ion range-slider"
+msgstr "Như thanh trượt phạm vi ion"
+
+msgid "As radio"
+msgstr "Như đài phát thanh"
+
+msgid "As radio button"
+msgstr "Như nút radio"
+
+msgid "As textinputs"
+msgstr "Như textinputs"
+
+msgid "As woo range-slider"
+msgstr "Như thanh trượt dải tần woo"
+
+msgid ""
+"Attention! This is the last email. If you want to continue get such emails -> "
+"Go by next link and subscribe again"
+msgstr ""
+"Chú ý! Đây là email cuối cùng. Nếu bạn muốn tiếp tục nhận những email như vậy -"
+"> Hãy truy cập vào liên kết tiếp theo và đăng ký lại"
+
+msgid "Author:"
+msgstr "tác giả:"
+
+msgid "Auto filter close/open image"
+msgstr "Bộ lọc tự động đóng / mở hình ảnh"
+
+msgid "Auto filter close/open text"
+msgstr "Tự động lọc văn bản đóng / mở"
+
+msgid "Autocomplete"
+msgstr "Tự động hoàn chỉnh"
+
+msgid "Autocomplete products count"
+msgstr "Số lượng sản phẩm tự động hoàn thành"
+
+msgid "Autocomplete relevant variants in SKU textinput"
+msgstr "Tự động hoàn thành các biến thể có liên quan trong thông lượng SKU"
+
+msgid "Autocomplete relevant variants in by_text textinput"
+msgstr "Tự động hoàn thành các biến thể có liên quan trong by_text textinput"
+
+msgid "Autosubmit"
+msgstr "Gửi tự động"
+
+msgid "Behavior"
+msgstr "Hành vi"
+
+msgid "Behavior as radio button"
+msgstr "Hành vi như nút radio"
+
+msgid "Behavior of how the filter sections will open."
+msgstr "Hành vi về cách các phần bộ lọc sẽ mở."
+
+msgid "Behavior of reset button"
+msgstr "Hành vi của nút đặt lại"
+
+msgid ""
+"Boost speed of products filtering. This mode allows to avoid generating big "
+"MySQL queries while products filtering on the site front what makes less "
+"loading to the server and getting filtering results more quick"
+msgstr ""
+"Tăng tốc độ lọc sản phẩm. Chế độ này cho phép tránh tạo ra các truy vấn MySQL "
+"lớn trong khi các sản phẩm lọc trên trang web những gì làm cho máy chủ tải ít "
+"hơn và nhận được kết quả lọc nhanh hơn"
+
+msgid "Both"
+msgstr "Cả hai"
+
+msgid "Bottom"
+msgstr "đáy"
+
+msgid "Button as"
+msgstr "Nút như"
+
+msgid "Button image size"
+msgstr "Kích thước hình ảnh nút"
+
+msgid "Button label"
+msgstr "Nhãn nút"
+
+msgid "Button offset (px) from top or left from the window edge"
+msgstr "Độ lệch nút (px) từ trên xuống hoặc bên trái từ mép cửa sổ"
+
+msgid "By author"
+msgstr "Của tác giả"
+
+msgid "By date"
+msgstr "Theo ngày"
+
+msgid "By emails count"
+msgstr "Theo số lượng email"
+
+msgid "By rating"
+msgstr "Theo xếp hạng"
+
+msgid "By rating drop-down"
+msgstr "Theo trình đơn thả xuống xếp hạng"
+
+msgid "By text"
+msgstr "Bằng văn bản"
+
+msgid ""
+"By this button you can set settings and generate shortcode for your needs for "
+"on single pages. After using, if you do not want the settings became globals, "
+"refresh the page to avoid settings saving!"
+msgstr ""
+"Bằng nút này, bạn có thể đặt cài đặt và tạo mã ngắn cho nhu cầu của mình trên "
+"các trang đơn lẻ. Sau khi sử dụng, nếu bạn không muốn cài đặt trở thành hình "
+"cầu, hãy làm mới trang để tránh lưu cài đặt!"
+
+msgid "Cache dynamic recount number for each item in filter"
+msgstr "Lưu vào bộ nhớ cache số thống kê động cho từng mục trong bộ lọc"
+
+msgid "Cache folder"
+msgstr "Thư mục bộ nhớ đệm"
+
+msgid ""
+"Cache pages, allow to make a lot of search queries on your site without high "
+"load on your server!"
+msgstr ""
+"Các trang được lưu vào bộ nhớ cache, cho phép thực hiện nhiều truy vấn tìm "
+"kiếm trên trang web của bạn mà không cần tải cao trên máy chủ của bạn!"
+
+msgid "Cache terms"
+msgstr "Các điều khoản trong bộ nhớ cache"
+
+msgid "Calculate Statistics"
+msgstr "Tính toán thống kê"
+
+msgid "Cheatin’ huh?"
+msgstr "Cheatin 'hả?"
+
+msgid "Check DB connection"
+msgstr "Kiểm tra kết nối DB"
+
+msgid "Check search logic AND/OR"
+msgstr "Kiểm tra logic tìm kiếm VÀ / HOẶC"
+
+msgid "Checkbox"
+msgstr "Hộp kiểm"
+
+msgid "Choose an extension zip"
+msgstr "Chọn một mã zip mở rộng"
+
+msgid "Clear"
+msgstr "Trong sáng"
+
+msgid "Clear All"
+msgstr "Làm sạch tất cả"
+
+msgid "Clear text input"
+msgstr "Xóa đầu vào văn bản"
+
+msgid "Click"
+msgstr "Nhấp chuột"
+
+msgid "Code"
+msgstr "Mã"
+
+msgid "Color"
+msgstr "Màu"
+
+msgid "Conditions logic"
+msgstr "Điều kiện logic"
+
+msgid "Container max-height (px). 0 means no max-height."
+msgstr ""
+"Chiều cao tối đa của vùng chứa (px). 0 có nghĩa là không có chiều cao tối đa."
+
+msgid "Create new section. Don`t forget to click on the save button."
+msgstr "Tạo phần mới. Đừng quên bấm vào nút lưu."
+
+msgid "Create section"
+msgstr "Tạo phần"
+
+msgid "Creating"
+msgstr "Tạo"
+
+msgid "Cron type"
+msgstr "Loại cron"
+
+msgid ""
+"Css class of ordering dropdown container. Is needed for ajax compatibility "
+"with wp themes. If you do not understand, leave it blank."
+msgstr ""
+"Lớp css của vùng chứa thả xuống đặt hàng. Cần thiết để tương thích ajax với "
+"các chủ đề wp. Nếu bạn không hiểu, hãy để trống."
+
+msgid ""
+"Css class of per page dropdown container. Is needed for ajax compatibility "
+"with wp themes. If you do not understand, leave it blank."
+msgstr ""
+"Lớp css của vùng chứa thả xuống trên mỗi trang. Cần thiết để tương thích ajax "
+"với các chủ đề wp. Nếu bạn không hiểu, hãy để trống."
+
+msgid ""
+"Css class of result-count container. Is needed for ajax compatibility with wp "
+"themes. If you do not understand, leave it blank."
+msgstr ""
+"Lớp css của vùng chứa kết quả đếm. Cần thiết để tương thích ajax với các chủ "
+"đề wp. Nếu bạn không hiểu, hãy để trống."
+
+msgid "Custom CSS code"
+msgstr "Mã CSS tùy chỉnh"
+
+msgid "Custom extensions folder"
+msgstr "Thư mục tiện ích mở rộng tùy chỉnh"
+
+msgid "Custom extensions folder path relative to: %s"
+msgstr "Đường dẫn thư mục tiện ích mở rộng tùy chỉnh liên quan đến: %s"
+
+msgid "Custom extensions installation"
+msgstr "Cài đặt tiện ích mở rộng tùy chỉnh"
+
+msgid "Custom front css styles file link"
+msgstr "Liên kết tệp kiểu css phía trước tùy chỉnh"
+
+msgid "Custom text of the button"
+msgstr "Văn bản tùy chỉnh của nút"
+
+msgid "DB Name"
+msgstr "Tên DB"
+
+msgid "DESC"
+msgstr "DESC"
+
+msgid "Data for default filter"
+msgstr "Dữ liệu cho bộ lọc mặc định"
+
+msgid "Database not connected! ERROR!"
+msgstr "Cơ sở dữ liệu không được kết nối! LỖI!"
+
+msgid "Database not connected! ERROR:"
+msgstr "Cơ sở dữ liệu không được kết nối! LỖI:"
+
+msgid "Database successfully connected!!!"
+msgstr "Cơ sở dữ liệu được kết nối thành công !!!"
+
+msgid "Database successfully updated!!!"
+msgstr "Đã cập nhật cơ sở dữ liệu thành công !!!"
+
+msgid "Datepicker"
+msgstr "Bảng chọn ngày"
+
+msgid ""
+"Dear [DISPLAY_NAME], we increased the range of our products. Number of new "
+"products: [PRODUCT_COUNT]"
+msgstr ""
+"Kính gửi [DISPLAY_NAME], chúng tôi đã tăng phạm vi sản phẩm của mình. Số lượng "
+"sản phẩm mới: [PRODUCT_COUNT]"
+
+msgid "Default"
+msgstr "Mặc định"
+
+msgid "Default - mm/dd/yy"
+msgstr "Mặc định - mm / dd / yy"
+
+msgid "Default extensions"
+msgstr "Tiện ích mở rộng mặc định"
+
+msgid "Delete"
+msgstr "Xóa bỏ"
+
+msgid "Demo sites"
+msgstr "Trang web demo"
+
+msgid "Design"
+msgstr "Thiết kế"
+
+msgid "Direct links to posts in autocomplete suggestion"
+msgstr "Liên kết trực tiếp đến các bài đăng trong đề xuất tự động hoàn thành"
+
+msgid "Direction of terms sorted inside of filter block"
+msgstr "Hướng của các thuật ngữ được sắp xếp bên trong khối bộ lọc"
+
+msgid "Disable swoof influence"
+msgstr "Tắt ảnh hưởng của swoof"
+
+msgid "Disabled"
+msgstr "Bị vô hiệu hóa"
+
+msgid "Display items in a row"
+msgstr "Hiển thị các mục trong một hàng"
+
+msgid "Display message if current product is suitable for saved search"
+msgstr "Hiển thị thông báo nếu sản phẩm hiện tại phù hợp với tìm kiếm đã lưu"
+
+msgid "Documentation"
+msgstr "Tài liệu"
+
+msgid "Drop-down"
+msgstr "Thả xuống"
+
+msgid "Drop-down OR radio"
+msgstr "Thả xuống HOẶC radio"
+
+msgid "Drop-down OR radio price filter ranges"
+msgstr "Trình đơn thả xuống HOẶC phạm vi bộ lọc giá radio"
+
+msgid "Drop-down price filter first option text"
+msgstr "Văn bản tùy chọn đầu tiên của bộ lọc giá thả xuống"
+
+msgid "Drop-down price filter text"
+msgstr "Văn bản bộ lọc giá thả xuống"
+
+msgid "Drop-down to filter ptoducts by rating"
+msgstr "Trình đơn thả xuống để lọc ptoducts theo xếp hạng"
+
+msgid ""
+"Duplicate, clone, backup, move and transfer an entire site from one location "
+"to another."
+msgstr ""
+"Nhân bản, sao chép, sao lưu, di chuyển và chuyển toàn bộ trang web từ vị trí "
+"này sang vị trí khác."
+
+msgid "Dynamic recount"
+msgstr "Kể lại động"
+
+msgid "Dynamic recount for current search form"
+msgstr "Tính lại động cho biểu mẫu tìm kiếm hiện tại"
+
+msgid "EXACT"
+msgstr "CHÍNH XÁC"
+
+msgid "Emails count"
+msgstr "Số lượng email"
+
+msgid "Enable turbo mode"
+msgstr "Bật chế độ turbo"
+
+msgid "Enabled"
+msgstr "Kích hoạt"
+
+msgid ""
+"Enter any random text in the field and use it in the external cron with link "
+"like: http://mysite.com/?woof_stat_collection=__YOUR_SECRET_KEY_HERE__"
+msgstr ""
+"Nhập bất kỳ văn bản ngẫu nhiên nào vào trường và sử dụng văn bản đó trong cron "
+"bên ngoài với liên kết như: http://mysite.com/?"
+"woof_stat_collection=__YOUR_SECRET_KEY_HERE__"
+
+msgid ""
+"Enter count of terms which should be visible to make all other collapsible. "
+"\"Show more\" button will be appeared. This feature is works with: radio, "
+"checkboxes, labels, colors."
+msgstr ""
+"Nhập số lượng các cụm từ sẽ hiển thị để làm cho tất cả các cụm từ khác có thể "
+"thu gọn được. Nút \\ \"Hiển thị thêm \" sẽ xuất hiện. Tính năng này hoạt động "
+"với: radio, hộp kiểm, nhãn, màu sắc."
+
+msgid "Enter tooltip text if necessary"
+msgstr "Nhập văn bản chú giải công cụ nếu cần"
+
+msgid "Error! Please read documents"
+msgstr "Lỗi! Vui lòng đọc tài liệu"
+
+msgid "Europe - dd-mm-yy"
+msgstr "Châu Âu - dd-mm-yy"
+
+msgid "Exact match"
+msgstr "Kết hợp chuẩn xác"
+
+msgid "Exact value"
+msgstr "Giá trị chính xác"
+
+msgid "Example"
+msgstr "Ví dụ"
+
+msgid "Example: 0-50,51-100,101-i. Where \"i\" is infinity."
+msgstr "Ví dụ: 0-50,51-100,101-i. Trong đó \\ \"i \" là vô cùng."
+
+msgid "Example: 0-50,51-100,101-i. Where \"i\" is infinity. Max price is %s."
+msgstr ""
+"Ví dụ: 0-50,51-100,101-i. Trong đó \\ \"i \" là vô cùng. Giá tối đa là %s."
+
+msgid "Example: 1^100"
+msgstr "Ví dụ: 1 ^ 100"
+
+msgid "Exclude On backorder"
+msgstr "Loại trừ khi đặt hàng trước"
+
+msgid "Exclude on backorder"
+msgstr "Loại trừ đối với đơn hàng đặt trước"
+
+msgid "Exclude products on backorder"
+msgstr "Loại trừ các sản phẩm đặt hàng trước"
+
+msgid "Exclude: On backorder"
+msgstr "Loại trừ: Khi đặt hàng trước"
+
+msgid "Export data"
+msgstr "Xuất dữ liệu"
+
+msgid "Export/Import"
+msgstr "Xuất nhập khẩu"
+
+msgid ""
+"Exports your database, does a find and replace on URLs and file paths, then "
+"allows you to save it to your computer."
+msgstr ""
+"Xuất cơ sở dữ liệu của bạn, tìm và thay thế các URL và đường dẫn tệp, sau đó "
+"cho phép bạn lưu nó vào máy tính của mình."
+
+msgid "Ext-Applications options"
+msgstr "Tùy chọn ứng dụng mở rộng"
+
+msgid "Extensions"
+msgstr "Phần mở rộng"
+
+msgid "External Cron"
+msgstr "Cron bên ngoài"
+
+msgid ""
+"External cron is more predictable with time of execution, but additional "
+"knowledge how to set it correctly is required (External cron will be ready in "
+"the next version of the extension)"
+msgstr ""
+"Cron bên ngoài dễ dự đoán hơn với thời gian thực thi, nhưng cần phải có thêm "
+"kiến ​​thức về cách đặt nó một cách chính xác ( Cron bên ngoài sẽ sẵn sàng trong "
+"phiên bản tiếp theo của tiện ích mở rộng )"
+
+msgid "External cron key (is recommended as flexible for timetable)"
+msgstr "Phím cron bên ngoài (được khuyến nghị là linh hoạt cho thời gian biểu)"
+
+msgid "FAQ"
+msgstr "Câu hỏi thường gặp"
+
+msgid "Featured checkbox"
+msgstr "Hộp kiểm nổi bật"
+
+msgid "Featured product"
+msgstr "Sản phẩm nổi bật"
+
+msgid "File updated!!!"
+msgstr "Đã cập nhật tệp !!!"
+
+msgid "Filter"
+msgstr "Lọc"
+
+msgid "Filter button text"
+msgstr "Lọc văn bản nút"
+
+msgid "Filter button text in the search form"
+msgstr "Lọc văn bản nút trong biểu mẫu tìm kiếm"
+
+msgid "Filter by rating"
+msgstr "Lọc theo xếp hạng"
+
+msgid "First drop-down option placeholder text OR title for checkboxes"
+msgstr ""
+"Trình giữ chỗ tùy chọn thả xuống đầu tiên, văn bản HOẶC tiêu đề cho các hộp "
+"kiểm"
+
+msgid "Flat dark (1column)"
+msgstr "Tối phẳng (1 cột)"
+
+msgid "Flat dark (2columns)"
+msgstr "Tối phẳng (2 cột)"
+
+msgid "Flat dark (3columns)"
+msgstr "Tối phẳng (3 cột)"
+
+msgid "Flat dark (4columns) without sidebar*"
+msgstr "Tối phẳng (4 cột) không có thanh bên *"
+
+msgid "Flat grey (1column)"
+msgstr "Màu xám phẳng (1 cột)"
+
+msgid "Flat grey (2columns)"
+msgstr "Màu xám phẳng (2 cột)"
+
+msgid "Flat grey (3columns)"
+msgstr "Màu xám phẳng (3 cột)"
+
+msgid "Flat grey (4columns) without sidebar*"
+msgstr "Màu xám phẳng (4 cột) không có thanh bên *"
+
+msgid ""
+"For developers who want to rewrite front css of the plugin front side. You are "
+"need to know CSS for this!"
+msgstr ""
+"Dành cho các nhà phát triển muốn viết lại front css của mặt trước plugin. Bạn "
+"cần biết CSS cho việc này!"
+
+msgid ""
+"For example you want to show title of Product Categories as \"My Products\". "
+"Just for your convenience."
+msgstr ""
+"Ví dụ: bạn muốn hiển thị tiêu đề của Danh mục sản phẩm là \\ \"Sản phẩm của "
+"tôi \". Chỉ để thuận tiện cho bạn."
+
+msgid "For external cron use the next link"
+msgstr "Đối với cron bên ngoài, hãy sử dụng liên kết tiếp theo"
+
+msgid "For simple and for variables products"
+msgstr "Đối với các sản phẩm đơn giản và cho các biến"
+
+msgid "For simple products only"
+msgstr "Chỉ dành cho các sản phẩm đơn giản"
+
+msgid ""
+"For variable products you can show an image depending on the current filter "
+"selection. For example you have variation with red color, and that varation "
+"has its own preview image - if on the site front user will select red color "
+"this imag will be shown. You can select attributes by which images will be "
+"selected"
+msgstr ""
+"Đối với các sản phẩm biến đổi, bạn có thể hiển thị hình ảnh tùy thuộc vào lựa "
+"chọn bộ lọc hiện tại. Ví dụ: bạn có biến thể với màu đỏ và varation có hình "
+"ảnh xem trước của riêng nó - nếu trên trang web người dùng sẽ chọn màu đỏ, "
+"hình ảnh này sẽ được hiển thị. Bạn có thể chọn các thuộc tính mà hình ảnh sẽ "
+"được chọn"
+
+msgid ""
+"For which type of products will be realized searching by SKU. Request for "
+"variables products creates more mysql queries in database ..."
+msgstr ""
+"Đối với loại sản phẩm nào sẽ được nhận ra khi tìm kiếm theo SKU. Yêu cầu đối "
+"với các sản phẩm biến tạo ra nhiều truy vấn mysql hơn trong cơ sở dữ liệu ..."
+
+msgid "Form AJAX redrawing"
+msgstr "Vẽ lại hình thức AJAX"
+
+msgid "From"
+msgstr "Từ"
+
+msgid "Full - DD, d MM, yy"
+msgstr "Đầy đủ - DD, d MM, yy"
+
+msgid "GDPR"
+msgstr "GDPR"
+
+msgid "GDPR info"
+msgstr "Thông tin GDPR"
+
+msgid "Generate attributes for shortcode [woof]"
+msgstr "Tạo thuộc tính cho shortcode [woof]"
+
+msgid "Generate data for export"
+msgstr "Tạo dữ liệu để xuất"
+
+msgid "Generate shortcode"
+msgstr "Tạo mã ngắn"
+
+msgid "Get"
+msgstr "Nhận"
+
+msgid "Get keys from any product by its ID"
+msgstr "Nhận khóa từ bất kỳ sản phẩm nào bằng ID của sản phẩm đó"
+
+msgid "Global visibility"
+msgstr "Khả năng hiển thị toàn cầu"
+
+msgid ""
+"Google charts library not loaded! If site is on localhost just disable "
+"statistic extension in tab Extensions!"
+msgstr ""
+"Thư viện biểu đồ của Google không được tải! Nếu trang web nằm trên máy chủ cục "
+"bộ, chỉ cần tắt tiện ích thống kê trong Tiện ích mở rộng tab!"
+
+msgid "Graphics"
+msgstr "Đồ họa"
+
+msgid ""
+"Helps to more quickly find the minimum and maximum values for the filter by "
+"price on the site front and minimize server loading."
+msgstr ""
+"Giúp tìm nhanh hơn các giá trị tối thiểu và tối đa cho bộ lọc theo giá trên "
+"trang web và giảm thiểu tải máy chủ."
+
+msgid ""
+"Here is generated WOOF settings data for export. You can only export WOOF "
+"settings and not taxonomies or other site data. For taxonomies, products and "
+"other use special third-party plugins."
+msgstr ""
+"Đây là dữ liệu cài đặt WOOF được tạo để xuất. Bạn chỉ có thể xuất cài đặt WOOF "
+"chứ không phải phân loại hoặc dữ liệu trang web khác. Đối với các đơn vị phân "
+"loại, các sản phẩm và các plugin khác sử dụng các plugin đặc biệt của bên thứ "
+"ba."
+
+msgid "Hide"
+msgstr "Ẩn giấu"
+
+msgid "Hide auto filter by default"
+msgstr "Ẩn bộ lọc tự động theo mặc định"
+
+msgid "Hide childs in checkboxes and radio"
+msgstr "Ẩn trẻ em trong hộp kiểm và đài"
+
+msgid ""
+"Hide childs in checkboxes and radio. Near checkbox/radio which has childs will "
+"be plus icon to show childs."
+msgstr ""
+"Ẩn trẻ em trong hộp kiểm và radio. Hộp kiểm / radio gần có trẻ em sẽ có biểu "
+"tượng dấu cộng để hiển thị trẻ em."
+
+msgid "Hide empty terms"
+msgstr "Ẩn các điều khoản trống"
+
+msgid "Hide empty terms in \"Dynamic recount\" mode"
+msgstr "Ẩn các cụm từ trống trong chế độ \\ \"Thống kê lại động \""
+
+msgid "Hide search form by default and show one button instead"
+msgstr "Ẩn biểu mẫu tìm kiếm theo mặc định và thay vào đó hiển thị một nút"
+
+msgid "Hide terms count text"
+msgstr "Ẩn văn bản đếm điều khoản"
+
+msgid "Hide woof top panel buttons"
+msgstr "Ẩn các nút của bảng điều khiển trên cùng"
+
+msgid "Host"
+msgstr "Máy chủ"
+
+msgid "Hover"
+msgstr "Bay lượn"
+
+msgid "How long user will get emails after subscription"
+msgstr "Người dùng sẽ nhận được email trong bao lâu sau khi đăng ký"
+
+msgid ""
+"How many search requests will be catched and written down into the statistical "
+"mySQL table per 1 unique user before cron will assemble the data"
+msgstr ""
+"Có bao nhiêu yêu cầu tìm kiếm sẽ được bắt và ghi vào bảng mySQL thống kê trên "
+"1 người dùng duy nhất trước khi cron sẽ tập hợp dữ liệu"
+
+msgid "How many show products in the autocomplete list"
+msgstr "Có bao nhiêu sản phẩm hiển thị trong danh sách tự động hoàn thành"
+
+msgid ""
+"How many taxonomies and terms to show on the graphs. Use no more than 10 to "
+"understand situation with statistical data"
+msgstr ""
+"Có bao nhiêu đơn vị phân loại và thuật ngữ để hiển thị trên biểu đồ. Sử dụng "
+"không quá 10 để hiểu tình huống với dữ liệu thống kê"
+
+msgid ""
+"How many taxonomies per one search request will be written down into the "
+"statistical mySQL table for 1 unique user. The excess data will be truncated! "
+"Number 5 is recommended. More depth - more space in the DataBase will be "
+"occupied by the data"
+msgstr ""
+"Có bao nhiêu phân loại trên một yêu cầu tìm kiếm sẽ được ghi vào bảng mySQL "
+"thống kê cho 1 người dùng duy nhất. Dữ liệu thừa sẽ bị cắt bớt! Số 5 được "
+"khuyến khích. Chiều sâu hơn - nhiều không gian hơn trong DataBase sẽ bị chiếm "
+"dụng bởi dữ liệu"
+
+msgid "How often assemble data file"
+msgstr "Tần suất tập hợp tệp dữ liệu"
+
+msgid "How often update products data file"
+msgstr "Tần suất cập nhật tệp dữ liệu sản phẩm"
+
+msgid "How to assemble statistic"
+msgstr "Cách tập hợp số liệu thống kê"
+
+msgid "How to open links with posts in suggestion"
+msgstr "Cách mở liên kết với các bài đăng trong đề xuất"
+
+msgid "How to sort terms inside of filter block"
+msgstr "Cách sắp xếp các thuật ngữ bên trong khối bộ lọc"
+
+msgid "ISO 8601 - yy-mm-dd"
+msgstr "ISO 8601 - yy-mm-dd"
+
+msgid "Id"
+msgstr "Tôi"
+
+msgid ""
+"If in options tab option \"Set filter automatically\" is \"Yes\" you can hide "
+"filter and show hide/show button instead of it."
+msgstr ""
+"Nếu trong tùy chọn tab tùy chọn \\ \"Đặt bộ lọc tự động \" là \\ \"Có \", bạn "
+"có thể ẩn bộ lọc và hiển thị nút ẩn / hiện thay vì nó."
+
+msgid ""
+"If to select NOT IN will be found items which not has selected terms!! Means "
+"vice versa to the the concept of including: excluding"
+msgstr ""
+"Nếu để chọn KHÔNG VÀO sẽ được tìm thấy các mục không có các điều khoản đã "
+"chọn !! Có nghĩa là ngược lại với khái niệm bao gồm:"
+
+msgid ""
+"If you are need to customize something and you don't want to lose your changes "
+"after update"
+msgstr ""
+"Nếu bạn cần tùy chỉnh một cái gì đó và bạn không muốn mất các thay đổi của "
+"mình sau khi cập nhật"
+
+msgid ""
+"If you do not like search key \"swoof\" in the search link you can replace it "
+"by your own word. But be care to avoid conflicts with any themes and plugins, "
+"+ never define it as symbol \"s\""
+msgstr ""
+"Nếu bạn không thích phím tìm kiếm \\ \"swoof \" trong liên kết tìm kiếm, bạn "
+"có thể thay thế nó bằng từ của riêng bạn. Nhưng hãy cẩn thận để tránh xung đột "
+"với bất kỳ chủ đề và plugin nào, + đừng bao giờ định nghĩa nó là biểu tượng \\ "
+"\"s \""
+
+msgid ""
+"If you have troubles with relevant terms recount on categories pages with "
+"dynamic recount for not logged in users - select transient."
+msgstr ""
+"Nếu bạn gặp khó khăn với các thuật ngữ có liên quan kể lại trên các trang danh "
+"mục có tính lại động cho những người dùng chưa đăng nhập - hãy chọn tạm thời."
+
+msgid ""
+"If you want show relevant tags on the categories pages you should activate "
+"show count, dynamic recount and hide empty terms in the tab Options. But if "
+"you do not want show count (number) text near each term - set Yes here."
+msgstr ""
+"Nếu bạn muốn hiển thị các thẻ có liên quan trên các trang danh mục, bạn nên "
+"kích hoạt số lượng hiển thị, tính lại động và ẩn các cụm từ trống trong tab "
+"Tùy chọn. Nhưng nếu bạn không muốn hiển thị văn bản đếm (số) gần mỗi cụm từ - "
+"hãy đặt Có ở đây."
+
+msgid "If you want to Unsubscribe from this newsletter"
+msgstr "Nếu bạn muốn Hủy đăng ký nhận bản tin này"
+
+msgid ""
+"If you want to exclude some current taxonomies terms from the search form! Use "
+"Reverse if you want include only instead of exclude! Example: 11,23,77"
+msgstr ""
+"Nếu bạn muốn loại trừ một số thuật ngữ phân loại hiện tại khỏi biểu mẫu tìm "
+"kiếm! Sử dụng Đảo ngược nếu bạn muốn chỉ bao gồm thay vì loại trừ! Ví dụ: "
+"11,23,77"
+
+msgid "Image"
+msgstr "Hình ảnh"
+
+msgid "Image for block toggle [closed]"
+msgstr "Image for block toggle [đóng cửa]"
+
+msgid "Image for block toggle [opened]"
+msgstr "Hình ảnh cho khối chuyển đổi [ open ]"
+
+msgid "Image for checked color type checkbox"
+msgstr "Hình ảnh cho hộp kiểm loại màu đã chọn"
+
+msgid "Image for checked image type checkbox"
+msgstr "Hộp kiểm hình ảnh cho loại hình ảnh đã chọn"
+
+msgid ""
+"Image for color checkboxes when its checked. Better use png. Size is: 25x25 px."
+msgstr ""
+"Hình ảnh cho các hộp kiểm màu khi nó được chọn. Tốt hơn hãy sử dụng png. Kích "
+"cỡ là: 25x25 px."
+
+msgid ""
+"Image for image checkboxes when its checked. Better use png. Size is: 25x25 px."
+msgstr ""
+"Hình ảnh cho hộp kiểm hình ảnh khi nó được chọn. Tốt hơn hãy sử dụng png. Kích "
+"cỡ là: 25x25 px."
+
+msgid ""
+"Image for sku search button which appears near input when users typing there "
+"any symbols. Better use png. Size is: 20x20 px."
+msgstr ""
+"Hình ảnh cho nút tìm kiếm sku xuất hiện gần mục nhập khi người dùng nhập bất "
+"kỳ ký hiệu nào vào đó. Tốt hơn hãy sử dụng png. Kích cỡ là: 20x20 px."
+
+msgid "Image for subcategories [close]"
+msgstr "Image for subcategories [gần]"
+
+msgid "Image for subcategories [open]"
+msgstr "Hình ảnh cho các danh mục phụ [ open ]"
+
+msgid ""
+"Image for text search button which appears near input when users typing there "
+"any symbols. Better use png. Size is: 20x20 px."
+msgstr ""
+"Nút hình ảnh cho tìm kiếm văn bản xuất hiện gần mục nhập khi người dùng nhập "
+"bất kỳ ký hiệu nào vào đó. Tốt hơn hãy sử dụng png. Kích cỡ là: 20x20 px."
+
+msgid ""
+"Image or text, button-image can be selected below of the option, instead of "
+"default one in Slideout image field. If text - you can below of the option "
+"insert Slideout text"
+msgstr ""
+"Hình ảnh hoặc văn bản, hình ảnh nút có thể được chọn bên dưới tùy chọn, thay "
+"vì tùy chọn mặc định trong trường Hình ảnh Slideout. Nếu văn bản - bạn có thể "
+"bên dưới tùy chọn chèn văn bản Slideout"
+
+msgid "Image settings for term %s"
+msgstr "Cài đặt hình ảnh cho thuật ngữ %s"
+
+msgid "Image styles"
+msgstr "Phong cách hình ảnh"
+
+msgid ""
+"Image when you select in tab Options \"Hide childs in checkboxes and radio\". "
+"By default it is green cross."
+msgstr ""
+"Hình ảnh khi bạn chọn trong tab Tùy chọn \\ \"Ẩn trẻ em trong hộp kiểm và "
+"radio \". Theo mặc định, nó là chữ thập màu xanh lá cây."
+
+msgid ""
+"Image when you select in tab Options \"Hide childs in checkboxes and radio\". "
+"By default it is green minus."
+msgstr ""
+"Hình ảnh khi bạn chọn trong tab Tùy chọn \\ \"Ẩn trẻ em trong hộp kiểm và "
+"radio \". Theo mặc định, nó là dấu trừ màu xanh lá cây."
+
+msgid "Image which displayed for tooltip"
+msgstr "Hình ảnh hiển thị cho chú giải công cụ"
+
+msgid ""
+"Image which displayed instead filter while it is closed if selected. Write "
+"\"none\" here if you want to use text only!"
+msgstr ""
+"Hình ảnh được hiển thị thay vào đó sẽ lọc trong khi nó bị đóng nếu được chọn. "
+"Viết \\ \"none \" ở đây nếu bạn chỉ muốn sử dụng văn bản!"
+
+msgid "Images"
+msgstr "hình ảnh"
+
+msgid "Import data"
+msgstr "Nhập dữ liệu"
+
+msgid "Import placed data"
+msgstr "Nhập dữ liệu đã đặt"
+
+msgid "In stock"
+msgstr "Còn hàng"
+
+msgid "In stock checkbox"
+msgstr "Hộp kiểm còn hàng"
+
+msgid "In the same window (_self) or in the new one (_blank)"
+msgstr "Trong cùng một cửa sổ (_self) hoặc trong một cửa sổ mới (_blank)"
+
+msgid "Info"
+msgstr "Thông tin"
+
+msgid "Init plugin on the next site pages only"
+msgstr "Init plugin chỉ trên các trang của trang web tiếp theo"
+
+msgid "Init sections"
+msgstr "Init phần"
+
+msgid "Init sections by default"
+msgstr "Init các phần theo mặc định"
+
+msgid ""
+"Insert Gallery in post, page and custom post types just in two clicks. You can "
+"create great galleries for your products."
+msgstr ""
+"Chèn Thư viện trong bài đăng, trang và các loại bài đăng tùy chỉnh chỉ bằng "
+"hai cú nhấp chuột. Bạn có thể tạo các phòng trưng bày tuyệt vời cho các sản "
+"phẩm của mình."
+
+msgid "Install"
+msgstr "đặt"
+
+msgid "Install Now"
+msgstr "Bây giờ cài đặt"
+
+msgid "Ion Range slider"
+msgstr "Thanh trượt Dải ion"
+
+msgid "Ion-Range slider js lib skin for range-sliders of the plugin"
+msgstr "Thanh trượt Ion-Range js lib skin cho các thanh trượt phạm vi của plugin"
+
+msgid ""
+"It concatenates all scripts and styles, minifies and compresses them, adds "
+"expires headers, caches them, and moves styles to the page head, and scripts "
+"to the footer"
+msgstr ""
+"Nó nối tất cả các tập lệnh và kiểu, thu nhỏ và nén chúng, thêm tiêu đề hết "
+"hạn, lưu vào bộ nhớ cache và di chuyển các kiểu vào đầu trang và tập lệnh vào "
+"chân trang"
+
+msgid ""
+"It is better to keep products data file in wp-uploads folder to avoid data "
+"removing after the plugin update, but not all hosting providers allows to get "
+"json data from this folder, so if you select keep data in the plugin folder "
+"remember about it and reassemble products data using button above after the "
+"plugin update."
+msgstr ""
+"Tốt hơn là giữ tệp dữ liệu sản phẩm trong thư mục wp-uploads để tránh việc xóa "
+"dữ liệu sau khi cập nhật plugin, nhưng không phải tất cả các nhà cung cấp dịch "
+"vụ lưu trữ đều cho phép lấy dữ liệu json từ thư mục này, vì vậy nếu bạn chọn "
+"giữ dữ liệu trong thư mục plugin, hãy nhớ về nó và tập hợp lại dữ liệu sản "
+"phẩm bằng cách sử dụng nút ở trên sau khi cập nhật plugin."
+
+msgid "It will be counted in the filter( Only for ion-slider )"
+msgstr "Nó sẽ được tính trong bộ lọc (Chỉ dành cho thanh trượt ion)"
+
+msgid "JavaScript code after AJAX is done"
+msgstr "Mã JavaScript sau khi AJAX được thực hiện xong"
+
+msgid "LIKE"
+msgstr "Tương tự"
+
+msgid "LIKE or Equally"
+msgstr "THÍCH hoặc bằng"
+
+msgid "Label"
+msgstr "nhãn"
+
+msgid "Leave it empty if you not need this"
+msgstr "Để trống nếu bạn không cần cái này"
+
+msgid "Left"
+msgstr "Còn lại"
+
+msgid "Lets checked terms will be on the top"
+msgstr "Cho phép các điều khoản được kiểm tra sẽ ở trên cùng"
+
+msgid "Links"
+msgstr "Liên kết"
+
+msgid "Links to posts in suggestion"
+msgstr "Liên kết đến các bài đăng trong đề xuất"
+
+msgid "Listen catalog visibility"
+msgstr "Nghe danh mục hiển thị"
+
+msgid ""
+"Listen catalog visibility - options in each product backend page in 'Publish' "
+"sidebar widget."
+msgstr ""
+"Nghe khả năng hiển thị danh mục - các tùy chọn trong mỗi trang phụ trợ sản "
+"phẩm trong tiện ích thanh bên 'Xuất bản'."
+
+msgid "Loading ..."
+msgstr "Đang tải ..."
+
+msgid "Loading balls - SVG"
+msgstr "Đang tải bóng - SVG"
+
+msgid "Loading bars - SVG"
+msgstr "Thanh tải - SVG"
+
+msgid "Loading bubbles - SVG"
+msgstr "Đang tải bong bóng - SVG"
+
+msgid "Loading cubes - SVG"
+msgstr "Tải hình khối - SVG"
+
+msgid "Loading cyclone - SVG"
+msgstr "Đang tải lốc xoáy - SVG"
+
+msgid "Loading spin - SVG"
+msgstr "Đang tải spin - SVG"
+
+msgid "Loading spinning bubbles - SVG"
+msgstr "Đang tải bong bóng quay - SVG"
+
+msgid "Loading spokes - SVG"
+msgstr "Tải nan hoa - SVG"
+
+msgid "Loading word"
+msgstr "Đang tải từ"
+
+msgid "Logic of filtering"
+msgstr "Logic của lọc"
+
+msgid "Looks like its not the WOOF extension here %s!"
+msgstr "Có vẻ như nó không phải là tiện ích mở rộng WOOF ở đây %s!"
+
+msgid "Looks like troubles with JavaScript!"
+msgstr "Có vẻ như rắc rối với JavaScript!"
+
+msgid "Make filtering"
+msgstr "Thực hiện lọc"
+
+msgid "Make filtering after clearing the SKU field or just clear the text input."
+msgstr "Thực hiện lọc sau khi xóa trường SKU hoặc chỉ xóa nhập văn bản."
+
+msgid "Max deep of the search request"
+msgstr "Độ sâu tối đa của yêu cầu tìm kiếm"
+
+msgid "Max height of the block"
+msgstr "Chiều cao tối đa của khối"
+
+msgid "Max price"
+msgstr "giá tối đa"
+
+msgid "Max requests per unique user"
+msgstr "Yêu cầu tối đa cho mỗi người dùng duy nhất"
+
+msgid "Max saved queries per user"
+msgstr "Số truy vấn đã lưu tối đa cho mỗi người dùng"
+
+msgid "Max subscriptions per user"
+msgstr "Số lượng đăng ký tối đa cho mỗi người dùng"
+
+msgid "Max terms or taxonomies per graph"
+msgstr "Các thuật ngữ hoặc đơn vị phân loại tối đa trên mỗi biểu đồ"
+
+msgid "Maximum number of emails per one subscribed user. -1 means no limit."
+msgstr ""
+"Số lượng email tối đa trên một người dùng đã đăng ký. -1 có nghĩa là không có "
+"giới hạn."
+
+msgid "Maximum number of subscriptions for a single registered user."
+msgstr "Số lượng đăng ký tối đa cho một người dùng đã đăng ký."
+
+msgid "Medium - d MM, y"
+msgstr "Trung bình - d MM, y"
+
+msgid "Meta Data"
+msgstr "metadata"
+
+msgid "Meta Fields"
+msgstr "Trường meta"
+
+msgid "Meta filter"
+msgstr "Bộ lọc meta"
+
+msgid "Min price"
+msgstr "giá thấp nhất"
+
+msgid "Min rating:"
+msgstr "Đánh giá của tôi:"
+
+msgid "Mobile behavior"
+msgstr "Hành vi di động"
+
+msgid "More about extension"
+msgstr "Thông tin thêm về tiện ích mở rộng"
+
+msgid "More video"
+msgstr "Thêm video"
+
+msgid "Multi Drop-down"
+msgstr "Nhiều trình đơn thả xuống"
+
+msgid "My query"
+msgstr "Sự truy vấn của tôi"
+
+msgid "NOT IN"
+msgstr "KHÔNG VÀO"
+
+msgid "New Products by your request"
+msgstr "Sản phẩm mới theo yêu cầu của bạn"
+
+msgid "New products"
+msgstr "Sản phẩm mới"
+
+msgid "New section"
+msgstr "Phần mới"
+
+msgid "No"
+msgstr "Không"
+
+msgid "No limit"
+msgstr "Không giới hạn"
+
+msgid "No products found"
+msgstr "Không tìm thấy sản phẩm"
+
+msgid "None"
+msgstr "Không áp dụng"
+
+msgid "Nope, maybe later!"
+msgstr "Không, có thể sau!"
+
+msgid ""
+"Not possible to create folder %s automatically, create it please manually!"
+msgstr "Không thể tạo thư mục %s tự động, hãy tạo nó theo cách thủ công!"
+
+msgid ""
+"Not possible. Enter options ranges in the plugin settings -> tab Structure -> "
+"Search by price -> additional options"
+msgstr ""
+"Không thể. Nhập phạm vi tùy chọn trong cài đặt plugin -> tab Cấu trúc -> Tìm "
+"kiếm theo giá -> tùy chọn bổ sung"
+
+msgid "Not toggled terms count"
+msgstr "Số điều khoản không được chuyển đổi"
+
+msgid ""
+"Note for admin: Folder %s for extensions is not writable OR doesn exists! "
+"Ignore this message if you not planning using WOOF custom extensions!"
+msgstr ""
+"Lưu ý cho quản trị viên: Thư mục %s cho các phần mở rộng không thể ghi HOẶC "
+"không tồn tại! Bỏ qua thông báo này nếu bạn không định sử dụng tiện ích mở "
+"rộng tùy chỉnh WOOF!"
+
+msgid "Notes for customer"
+msgstr "Lưu ý cho khách hàng"
+
+msgid "Notice! Add options in the plugin settings->Meta filter"
+msgstr "Để ý! Thêm tùy chọn trong cài đặt plugin-> Bộ lọc meta"
+
+msgid "Notice:"
+msgstr "Để ý:"
+
+msgid "Numeric."
+msgstr "Số."
+
+msgid "OR"
+msgstr "HOẶC LÀ"
+
+msgid "Offset"
+msgstr "Bù đắp"
+
+msgid "Ok, you deserve it"
+msgstr "Ok, bạn xứng đáng"
+
+msgid "On sale"
+msgstr "giảm giá"
+
+msgid "On sale checkbox"
+msgstr "Hộp kiểm giảm giá"
+
+msgid "One month"
+msgstr "Mot thang"
+
+msgid "One week"
+msgstr "Một tuần"
+
+msgid "Optimize loading of WOOF JavaScript files"
+msgstr "Tối ưu hóa việc tải các tệp JavaScript WOOF"
+
+msgid "Optimize price filter"
+msgstr "Tối ưu hóa bộ lọc giá"
+
+msgid "Options"
+msgstr "Các lựa chọn"
+
+msgid "Order dropdown css selector"
+msgstr "Đặt hàng công cụ chọn css thả xuống"
+
+msgid "Overlay image background"
+msgstr "Lớp phủ nền hình ảnh"
+
+msgid "Overlay skins"
+msgstr "Lớp phủ da"
+
+msgid "Override no products found content"
+msgstr "Ghi đè nội dung không tìm thấy sản phẩm nào"
+
+msgid "Password"
+msgstr "Mật khẩu"
+
+msgid "Per page css selector"
+msgstr "Bộ chọn css trên mỗi trang"
+
+msgid ""
+"Period of emailing to subscribed users. Set it to \"No\" if you going to use "
+"external cron."
+msgstr ""
+"Khoảng thời gian gửi email cho người dùng đã đăng ký. Đặt nó thành \\ \"Không "
+"\" nếu bạn định sử dụng cron bên ngoài."
+
+msgid ""
+"Place in which you can paste text or/and any shortcodes which will be "
+"displayed when customer will not find any products by his search criterias. "
+"Example:"
+msgstr ""
+"Đặt vào đó bạn có thể dán văn bản hoặc / và bất kỳ mã ngắn nào sẽ được hiển "
+"thị khi khách hàng không tìm thấy bất kỳ sản phẩm nào theo tiêu chí tìm kiếm "
+"của họ. Thí dụ:"
+
+msgid "Placeholder"
+msgstr "Trình giữ chỗ"
+
+msgid "Placeholder text"
+msgstr "Văn bản giữ chỗ"
+
+msgid "Plainoverlay - CSS"
+msgstr "Plainoverlay - CSS"
+
+msgid "Plainoverlay color"
+msgstr "Màu plainoverlay"
+
+msgid "Please fill the title field."
+msgstr "Vui lòng điền vào trường tiêu đề."
+
+msgid "Please read documents"
+msgstr "Vui lòng đọc tài liệu"
+
+msgid "Please update database:"
+msgstr "Vui lòng cập nhật cơ sở dữ liệu:"
+
+msgid "Position"
+msgstr "Chức vụ"
+
+msgid "Postfix"
+msgstr "Postfix"
+
+msgid "Prefix"
+msgstr "Tiếp đầu ngữ"
+
+msgid "Price - from %s to %s"
+msgstr "Giá - từ %s đến %s"
+
+msgid "Price:"
+msgstr "Giá bán:"
+
+msgid "Print Graphs"
+msgstr "In đồ thị"
+
+msgid "Priority of limitations"
+msgstr "Mức độ ưu tiên của các hạn chế"
+
+msgid "Product not found"
+msgstr "Sản phẩm không có"
+
+msgid "Products Filter"
+msgstr "Bộ lọc sản phẩm"
+
+msgid "Products Messenger"
+msgstr "Sản phẩm Messenger"
+
+msgid "Products and Variants"
+msgstr "Sản phẩm và Biến thể"
+
+msgid "Products assembling period in data file for quick search."
+msgstr "Thời gian lắp ráp sản phẩm trong tệp dữ liệu để tìm kiếm nhanh chóng."
+
+msgid "Products per page"
+msgstr "Sản phẩm trên mỗi trang"
+
+msgid ""
+"Products per page when searching is going only. Set here -1 to prevent "
+"pagination managing from here!"
+msgstr ""
+"Sản phẩm trên mỗi trang khi tìm kiếm sẽ chỉ. Đặt ở đây -1 để ngăn việc quản lý "
+"phân trang từ đây!"
+
+msgid "Quick search"
+msgstr "Nhanh chóng tìm kiếm"
+
+msgid "Quick video tutorial"
+msgstr "Video hướng dẫn nhanh"
+
+msgid "Radio and checkboxes skin"
+msgstr "Giao diện radio và hộp kiểm"
+
+msgid "Range"
+msgstr "Phạm vi"
+
+msgid "Range-slider skin"
+msgstr "Da trượt theo dải"
+
+msgid "Ranges for price filter."
+msgstr "Phạm vi cho bộ lọc giá."
+
+msgid "Read about the Statistic extension here"
+msgstr "Đọc về phần mở rộng Thống kê tại đây"
+
+msgid "Reassemble data file"
+msgstr "Tập hợp lại tệp dữ liệu"
+
+msgid "Reassemble data file for quick search manually now"
+msgstr ""
+"Tập hợp lại tệp dữ liệu để tìm kiếm nhanh theo cách thủ công ngay bây giờ"
+
+msgid "Reassemble products data now!"
+msgstr "Tập hợp lại dữ liệu sản phẩm ngay bây giờ!"
+
+msgid "Recommended plugins for your site flexibility and features"
+msgstr ""
+"Các plugin được đề xuất cho tính linh hoạt và tính năng của trang web của bạn"
+
+msgid "Red buttons on the top of the shop page when searching done"
+msgstr "Các nút màu đỏ trên đầu trang cửa hàng khi tìm kiếm xong"
+
+msgid "Redirect to"
+msgstr "Chuyển hướng đến"
+
+msgid ""
+"Redirect to any page - use it by your own logic. Leave it empty for default "
+"behavior."
+msgstr ""
+"Chuyển hướng đến bất kỳ trang nào - sử dụng nó theo logic của riêng bạn. Để "
+"trống cho hành vi mặc định."
+
+msgid ""
+"Redraws search form by AJAX, and to start filtering \"Filter\" button should "
+"be pressed. Useful when uses hierarchical drop-down for example"
+msgstr ""
+"Vẽ lại biểu mẫu tìm kiếm bằng AJAX và để bắt đầu lọc \\ \"Bộ lọc \" phải được "
+"nhấn nút. Hữu ích khi sử dụng trình đơn thả xuống phân cấp chẳng hạn"
+
+msgid "Reset"
+msgstr "Thiết lập lại"
+
+msgid "Reset button text"
+msgstr "Đặt lại văn bản nút"
+
+msgid ""
+"Reset button text in the search form. Write \"none\" to hide this button on "
+"front."
+msgstr ""
+"Đặt lại văn bản nút trong biểu mẫu tìm kiếm. Viết \\ \"none \" để ẩn nút này ở "
+"phía trước."
+
+msgid "Reset items order"
+msgstr "Đặt lại thứ tự các mặt hàng"
+
+msgid "Result count css selector"
+msgstr "Bộ chọn css đếm kết quả"
+
+msgid "Reverse"
+msgstr "Đảo ngược"
+
+msgid "Reverse: deactivate plugin on the next site pages only"
+msgstr ""
+"Đảo ngược: chỉ hủy kích hoạt plugin trên các trang của trang web tiếp theo"
+
+msgid "Right"
+msgstr "Đúng"
+
+msgid "Role"
+msgstr "Vai trò"
+
+msgid ""
+"SKU textinput placeholder. Set \"none\" if you want leave it empty on the "
+"front."
+msgstr ""
+"Trình giữ chỗ textinput SKU. Đặt \\ \"none \" nếu bạn muốn để trống ở mặt "
+"trước."
+
+msgid "SS"
+msgstr "SS"
+
+msgid "SSS"
+msgstr "SSS"
+
+msgid "SSSS"
+msgstr "Sss"
+
+msgid "SSSSS"
+msgstr "sssss"
+
+msgid "Save current search query"
+msgstr "Lưu truy vấn tìm kiếm hiện tại"
+
+msgid "Save meta fields"
+msgstr "Lưu trường meta"
+
+msgid "Save search query"
+msgstr "Lưu truy vấn tìm kiếm"
+
+msgid "Search by Author"
+msgstr "Tìm kiếm theo Tác giả"
+
+msgid "Search by InStock"
+msgstr "Tìm kiếm bằng InStock"
+
+msgid "Search by Price"
+msgstr "Tìm kiếm theo giá"
+
+msgid "Search by SKU"
+msgstr "Tìm kiếm theo SKU"
+
+msgid "Search by Text"
+msgstr "Tìm kiếm bằng văn bản"
+
+msgid "Search by content"
+msgstr "Tìm kiếm theo nội dung"
+
+msgid "Search by content OR excerpt"
+msgstr "Tìm kiếm theo nội dung HOẶC đoạn trích"
+
+msgid "Search by description in variations"
+msgstr "Tìm kiếm theo mô tả trong các biến thể"
+
+msgid "Search by exact value OR if meta key exists"
+msgstr "Tìm kiếm theo giá trị chính xác HOẶC nếu có khóa meta"
+
+msgid "Search by excerpt"
+msgstr "Tìm kiếm theo đoạn trích"
+
+msgid "Search by featured"
+msgstr "Tìm kiếm theo tính năng nổi bật"
+
+msgid "Search by full word only"
+msgstr "Chỉ tìm kiếm theo từ đầy đủ"
+
+msgid "Search by rating"
+msgstr "Tìm kiếm theo xếp hạng"
+
+msgid "Search by text"
+msgstr "Tìm kiếm bằng văn bản"
+
+msgid "Search by title"
+msgstr "Tìm theo tựa đề"
+
+msgid "Search by title AND content"
+msgstr "Tìm kiếm theo tiêu đề VÀ nội dung"
+
+msgid "Search by title OR content"
+msgstr "Tìm kiếm theo tiêu đề HOẶC nội dung"
+
+msgid "Search by title OR content OR excerpt"
+msgstr "Tìm kiếm theo tiêu đề HOẶC nội dung HOẶC đoạn trích"
+
+msgid "Search in products and their variations"
+msgstr "Tìm kiếm trong các sản phẩm và các biến thể của chúng"
+
+msgid "Search in variable produts"
+msgstr "Tìm kiếm trong các sản phẩm biến đổi"
+
+msgid "Search logic"
+msgstr "Tìm kiếm logic"
+
+msgid "Search option"
+msgstr "Tùy chọn tìm kiếm"
+
+msgid "Search slug"
+msgstr "Tìm kiếm slug"
+
+msgid "Search value"
+msgstr "Giá trị tìm kiếm"
+
+msgid "Secret key for external cron"
+msgstr "Khóa bí mật cho cron bên ngoài"
+
+msgid "Sections"
+msgstr "Mục"
+
+msgid "Sections behavior"
+msgstr "Hành vi phần"
+
+msgid "See more new products..."
+msgstr "Xem thêm các sản phẩm mới ..."
+
+msgid ""
+"Select \"Yes\" if you want to TRY make filtering in your shop by AJAX. Not "
+"compatible for 100% of all wp themes, so test it well if you are going to buy "
+"premium version of the plugin because incompatibility is not fixable!"
+msgstr ""
+"Chọn \\ \"Có \" nếu bạn muốn THỬ thực hiện lọc trong cửa hàng của bạn bằng "
+"AJAX. Không tương thích với 100% tất cả các chủ đề wp, vì vậy hãy kiểm tra kỹ "
+"nếu bạn định mua phiên bản cao cấp của plugin vì không thể sửa được tính không "
+"tương thích!"
+
+msgid "Select Image"
+msgstr "Chọn ảnh"
+
+msgid "Select a product author"
+msgstr "Chọn một tác giả sản phẩm"
+
+msgid "Select acceptable for your hosting type of cron"
+msgstr "Chọn loại có thể chấp nhận được cho loại cron lưu trữ của bạn"
+
+msgid ""
+"Select cron which you want to use for the statistic assembling. Better use "
+"WordPress cron, but on the server create external cron and set there period of "
+"site visiting."
+msgstr ""
+"Chọn cron mà bạn muốn sử dụng để tập hợp thống kê. Tốt hơn hãy sử dụng cron "
+"WordPress, nhưng trên máy chủ hãy tạo cron bên ngoài và đặt khoảng thời gian "
+"truy cập trang web."
+
+msgid "Select period:"
+msgstr "Chọn khoảng thời gian:"
+
+msgid "Select taxonomies and meta keys which you want to track"
+msgstr "Chọn phân loại và khóa meta mà bạn muốn theo dõi"
+
+msgid "Select taxonomies in tab Options and press \"Save changes\""
+msgstr ""
+"Chọn các đơn vị phân loại trong tab Tùy chọn và nhấn \\ \"Lưu thay đổi \""
+
+msgid ""
+"Select taxonomy, taxonomies combinations OR leave this field empty to see "
+"general data for all the most requested taxonomies"
+msgstr ""
+"Chọn phân loại, kết hợp phân loại HOẶC để trống trường này để xem dữ liệu "
+"chung cho tất cả các đơn vị phân loại được yêu cầu nhiều nhất"
+
+msgid "Select the time period for which you want to see statistical data"
+msgstr "Chọn khoảng thời gian mà bạn muốn xem dữ liệu thống kê"
+
+msgid ""
+"Selected terms will always be displayed on the top (for parent-terms only, "
+"child will be on the top but under parent-term as it was)"
+msgstr ""
+"Các điều khoản đã chọn sẽ luôn được hiển thị ở trên cùng (chỉ dành cho các "
+"điều khoản dành cho cha mẹ, con sẽ ở trên cùng nhưng dưới hạn cha mẹ như ban "
+"đầu)"
+
+msgid "Server options for statistic stock"
+msgstr "Tùy chọn máy chủ cho kho thống kê"
+
+msgid "Set \"none\" to disable placeholder for this textinput"
+msgstr "Đặt \\ \"none \" để tắt trình giữ chỗ cho thông lượng tin nhắn này"
+
+msgid "Set filter automatically"
+msgstr "Đặt bộ lọc tự động"
+
+msgid "Set filter automatically on the shop page"
+msgstr "Đặt bộ lọc tự động trên trang cửa hàng"
+
+msgid "Settings"
+msgstr "Cài đặt"
+
+msgid "Short - d M, y"
+msgstr "Ngắn - d M, y"
+
+msgid "Should the slideout button be visible on mobile devices"
+msgstr "Nút slideout có hiển thị trên thiết bị di động không"
+
+msgid "Show"
+msgstr "Chỉ"
+
+msgid "Show stars in drop-down"
+msgstr "Hiển thị dấu sao trong trình đơn thả xuống"
+
+msgid "Show Featured products checkbox inside WOOF search form"
+msgstr "Hiển thị hộp kiểm Sản phẩm nổi bật bên trong biểu mẫu tìm kiếm WOOF"
+
+msgid "Show In stock only checkbox inside woof search form"
+msgstr "Hiển thị hộp kiểm Chỉ còn hàng bên trong biểu mẫu tìm kiếm len lỏi"
+
+msgid "Show On backorder checkbox inside woof search form"
+msgstr "Hộp kiểm Show On backorder bên trong biểu mẫu tìm kiếm woof"
+
+msgid "Show On sale only checkbox inside woof search form"
+msgstr "Hộp kiểm chỉ Hiển thị Giảm giá bên trong biểu mẫu tìm kiếm Woof"
+
+msgid "Show Search by author drop-down inside woof search form"
+msgstr ""
+"Hiển thị menu thả xuống Tìm kiếm theo tác giả bên trong biểu mẫu tìm kiếm "
+"thông minh"
+
+msgid "Show blocks helper button"
+msgstr "Hiển thị nút trình trợ giúp khối"
+
+msgid "Show button"
+msgstr "Hiển thị nút"
+
+msgid ""
+"Show button for woocommerce filter by price inside woof search form when it is "
+"dispayed as woo range-slider"
+msgstr ""
+"Hiển thị nút cho bộ lọc thương mại lớn theo giá bên trong biểu mẫu tìm kiếm "
+"tai nghe khi nó được chuyển dưới dạng thanh trượt dải trầm"
+
+msgid "Show count"
+msgstr "Hiển thị số lượng"
+
+msgid "Show count of items near taxonomies terms on the front"
+msgstr "Hiển thị số lượng các mặt hàng gần các thuật ngữ phân loại ở mặt trước"
+
+msgid ""
+"Show count of items near taxonomies terms on the front dynamically. Must be "
+"switched on \"Show count\". In turbo mode if filter is very big better select "
+"\"Yes, only for PC\""
+msgstr ""
+"Hiển thị số lượng các mục gần các thuật ngữ phân loại ở mặt trước một cách "
+"linh động. Phải được bật \\ \"Hiển thị số lượng \". Ở chế độ turbo nếu bộ lọc "
+"rất lớn, hãy chọn \\ \"Có, chỉ dành cho PC \""
+
+msgid ""
+"Show helper button for shortcode [woof] on the front when 'Set filter "
+"automatically' is Yes"
+msgstr ""
+"Hiển thị nút trình trợ giúp cho mã ngắn [woof] ở mặt trước khi 'Đặt bộ lọc tự "
+"động' là Có"
+
+msgid "Show image of variation"
+msgstr "Hiển thị hình ảnh của biến thể"
+
+msgid "Show image title"
+msgstr "Hiển thị tiêu đề hình ảnh"
+
+msgid "Show image title below picture"
+msgstr "Hiển thị tiêu đề hình ảnh bên dưới hình ảnh"
+
+msgid "Show in one column"
+msgstr "Hiển thị trong một cột"
+
+msgid "Show in one column with title"
+msgstr "Hiển thị trong một cột với tiêu đề"
+
+msgid "Show less"
+msgstr "Hiện ít hơn"
+
+msgid "Show more"
+msgstr "Cho xem nhiều hơn"
+
+msgid "Show notice"
+msgstr "Hiển thị thông báo"
+
+msgid "Show notice on product page"
+msgstr "Hiển thị thông báo trên trang sản phẩm"
+
+msgid "Show on all devices"
+msgstr "Hiển thị trên tất cả các thiết bị"
+
+msgid "Show only on desktop"
+msgstr "Chỉ hiển thị trên máy tính để bàn"
+
+msgid "Show only on mobile"
+msgstr "Chỉ hiển thị trên điện thoại di động"
+
+msgid "Show price text inputs"
+msgstr "Hiển thị đầu vào văn bản giá"
+
+msgid "Show product mesenger box inside woof search form"
+msgstr "Hiển thị hộp mesenger sản phẩm bên trong biểu mẫu tìm kiếm woof"
+
+msgid "Show products filter form"
+msgstr "Hiển thị biểu mẫu bộ lọc sản phẩm"
+
+msgid "Show subscription button"
+msgstr "Hiển thị nút đăng ký"
+
+msgid ""
+"Show subscription button without search query. For example, user will be able "
+"to subscribe for new products in any products category."
+msgstr ""
+"Hiển thị nút đăng ký mà không cần truy vấn tìm kiếm. Ví dụ: người dùng sẽ có "
+"thể đăng ký các sản phẩm mới trong bất kỳ danh mục sản phẩm nào."
+
+msgid "Show textinput for searching by products sku"
+msgstr "Hiển thị thông lượng textinput để tìm kiếm theo sản phẩm sku"
+
+msgid "Show textinput for searching by products title"
+msgstr "Hiển thị thông lượng textinput để tìm kiếm theo tiêu đề sản phẩm"
+
+msgid "Show title label"
+msgstr "Hiển thị nhãn tiêu đề"
+
+msgid "Show toggle button"
+msgstr "Hiển thị nút chuyển đổi"
+
+msgid ""
+"Show toggle button near the title on the front above the block of html-items"
+msgstr ""
+"Hiển thị nút chuyển đổi gần tiêu đề ở mặt trước phía trên khối html-items"
+
+msgid "Show tooltip"
+msgstr "Hiển thị chú giải công cụ"
+
+msgid "Show woocommerce filter by price inside woof search form"
+msgstr "Hiển thị bộ lọc woocommerce theo giá bên trong biểu mẫu tìm kiếm woof"
+
+msgid "Show/Hide meta block title on the front"
+msgstr "Hiển thị / Ẩn tiêu đề khối meta ở mặt trước"
+
+msgid "Show/Hide slideout on shop pages"
+msgstr "Hiển thị / Ẩn đĩ trên các trang cửa hàng"
+
+msgid "Show/Hide taxonomy block title on the front"
+msgstr "Hiển thị / Ẩn tiêu đề khối phân loại ở mặt trước"
+
+msgid ""
+"Shrink, beautify, track, manage and share any URL on or off of your WordPress "
+"website. Create links that look how you want using your own domain name!"
+msgstr ""
+"Thu nhỏ, làm đẹp, theo dõi, quản lý và chia sẻ bất kỳ URL nào trên hoặc ngoài "
+"trang web WordPress của bạn. Tạo các liên kết trông như thế nào bạn muốn bằng "
+"cách sử dụng tên miền của riêng bạn!"
+
+msgid "Simple products only"
+msgstr "Sản phẩm đơn giản chỉ"
+
+msgid "Skins for the auto filter"
+msgstr "Giao diện cho bộ lọc tự động"
+
+msgid ""
+"Skins for the auto-filter which appears on the shop page if in tab Options "
+"enabled Set filter automatically"
+msgstr ""
+"Giao diện cho bộ lọc tự động xuất hiện trên trang cửa hàng nếu trong tab Đã "
+"bật Tùy chọn Đặt bộ lọc tự động"
+
+msgid "Slideout"
+msgstr "Con đĩ"
+
+msgid "Slideout image"
+msgstr "Hình ảnh đĩ"
+
+msgid "Slideout text"
+msgstr "Văn bản đĩ"
+
+msgid "Slider"
+msgstr "Thanh trượt"
+
+msgid ""
+"Sometimes code 'wp_query->is_post_type_archive = true' does not necessary. Try "
+"to disable this and try woof-search on your site. If all is ok - leave its "
+"disabled. Disabled code by this option you can find in index.php by mark "
+"disable_swoof_influence."
+msgstr ""
+"Đôi khi mã ' wp_query->is_post_type_archive = true' không cần thiết. Cố gắng "
+"vô hiệu hóa điều này và thử tìm kiếm trên trang web của bạn. Nếu tất cả đều ổn "
+"- hãy để nó bị vô hiệu hóa. Mã bị vô hiệu hóa bởi tùy chọn này, bạn có thể tìm "
+"thấy trong index.php bằng cách đánh dấu disable_swoof_influence."
+
+msgid "Somthing wrong!"
+msgstr "Sai rồi!"
+
+msgid "Sorry! This product is not suitable for your search %title%."
+msgstr "Lấy làm tiếc! Sản phẩm này không phù hợp với% title% tìm kiếm của bạn."
+
+msgid "Sort terms"
+msgstr "Sắp xếp các điều khoản"
+
+msgid "Speed"
+msgstr "Tốc độ"
+
+msgid ""
+"Start searching just after changing any of the elements on the search form"
+msgstr ""
+"Bắt đầu tìm kiếm ngay sau khi thay đổi bất kỳ phần tử nào trên biểu mẫu tìm "
+"kiếm"
+
+msgid "State after init"
+msgstr "Trạng thái sau khi init"
+
+msgid "Statistic"
+msgstr "thống kê"
+
+msgid ""
+"Statistic -> tab Options -> \"Stat server options\" inputs should be filled in "
+"by right data, another way not possible to collect statistical data!"
+msgstr ""
+"Thống kê -> tab Tùy chọn -> \\ \"Tùy chọn máy chủ thống kê \" đầu vào phải "
+"được điền đúng dữ liệu, không thể thu thập dữ liệu thống kê theo một cách khác!"
+
+msgid ""
+"Statistic extension is activated but statistics collection is not enabled. "
+"Enable it on: tab Statistic -> tab Options -> \"Statistics collection enabled\""
+msgstr ""
+"Tiện ích thống kê được kích hoạt nhưng thu thập thống kê không được bật. Bật "
+"nó trên: tab Thống kê -> tab Tùy chọn -> \\ \"Đã bật thu thập thống kê \""
+
+msgid "Statistic for:"
+msgstr "Thống kê cho:"
+
+msgid "Statistical parameters:"
+msgstr "Các thông số thống kê:"
+
+msgid "Statistics collection:"
+msgstr "Thu thập thống kê:"
+
+msgid "Step"
+msgstr "Bước"
+
+msgid "Step by step filter"
+msgstr "Bộ lọc từng bước"
+
+msgid "Storage type"
+msgstr "Loại lưu trữ"
+
+msgid "Structure"
+msgstr "Kết cấu"
+
+msgid "Styles and codes which are applied on the demo site"
+msgstr "Kiểu và mã được áp dụng trên trang demo"
+
+msgid "Subject of the email"
+msgstr "Chủ đề của email"
+
+msgid "Subject of the email."
+msgstr "Chủ đề của email."
+
+msgid "Submit button position"
+msgstr "Gửi vị trí nút"
+
+msgid "Subscribe"
+msgstr "Theo dõi"
+
+msgid "Subscribe on the current search request"
+msgstr "Đăng ký theo yêu cầu tìm kiếm hiện tại"
+
+msgid "Subscription"
+msgstr "Đăng ký"
+
+msgid "Subscription time"
+msgstr "Thời gian đăng ký"
+
+msgid "Support"
+msgstr "Hỗ trợ"
+
+msgid ""
+"Syntax example: product_cat>pa_size,by_instock>pa_color. In the example "
+"described: if a user will select a [product category] then filter by [pa_size] "
+"or [by_instock] will be appeared [pa_color]. For shortcode [woof] use an "
+"attribute: [conditionals]. Use line break in the textarea to define some rules "
+"(press Enter keyboard). In [woof] shortcode to define some rules use sign: [+]."
+msgstr ""
+"Ví dụ về cú pháp: product_cat> pa_size, by_instock> pa_color. Trong ví dụ được "
+"mô tả: nếu người dùng chọn [danh mục sản phẩm] thì bộ lọc theo [pa_size] hoặc "
+"[by_instock] sẽ xuất hiện [pa_color]. Đối với mã ngắn [woof], hãy sử dụng "
+"thuộc tính: [điều kiện]. Sử dụng ngắt dòng trong vùng văn bản để xác định một "
+"số quy tắc (nhấn Enter bàn phím). Trong shortcode [woof] để xác định một số "
+"quy tắc sử dụng dấu: [+]."
+
+msgid "TEXT"
+msgstr "BẢN VĂN"
+
+msgid ""
+"TRUE value, all another are FALSE. Example: yes or true or 1. By default if "
+"this textinput empty 1 is true and 0 is false"
+msgstr ""
+"Giá trị TRUE, tất cả các giá trị khác đều FALSE. Ví dụ: có hoặc đúng hoặc 1. "
+"Theo mặc định nếu thông lượng tin nhắn này trống thì 1 là đúng và 0 là sai"
+
+msgid "Tax"
+msgstr "Thuế"
+
+msgid "Taxes"
+msgstr "Thuế"
+
+msgid "Taxonomy conditionals"
+msgstr "Điều kiện phân loại"
+
+msgid "Taxonomy custom label"
+msgstr "Nhãn tùy chỉnh phân loại"
+
+msgid "Terms:"
+msgstr "Điều khoản:"
+
+msgid "Text"
+msgstr "bản văn"
+
+msgid ""
+"Text before the price filter range slider. Leave it empty if you not need it!"
+msgstr ""
+"Văn bản trước thanh trượt phạm vi bộ lọc giá. Để trống nếu bạn không cần!"
+
+msgid "Text for block toggle [closed]"
+msgstr "Text for block toggle [đóng cửa]"
+
+msgid "Text for block toggle [opened]"
+msgstr "Văn bản cho khối chuyển đổi [ open ]"
+
+msgid "Text if current product is not suitable for saved searches"
+msgstr "Nhắn tin nếu sản phẩm hiện tại không phù hợp với các tìm kiếm đã lưu"
+
+msgid "Text if current product is suitable for saved searches"
+msgstr "Nhắn tin nếu sản phẩm hiện tại phù hợp với các tìm kiếm đã lưu"
+
+msgid "Text in header of the email."
+msgstr "Văn bản trong tiêu đề của email."
+
+msgid ""
+"Text in the body of the email. You can use next variables: [DISPLAY_NAME], "
+"[USER_NICENAME], [PRODUCT_COUNT]."
+msgstr ""
+"Văn bản trong nội dung email. Bạn có thể sử dụng các biến tiếp theo: "
+"[DISPLAY_NAME], [USER_NICENAME], [PRODUCT_COUNT]."
+
+msgid "Text of the email"
+msgstr "Văn bản của email"
+
+msgid "Text search"
+msgstr "Tìm kiếm văn bản"
+
+msgid "Text search conditional"
+msgstr "Tìm kiếm văn bản có điều kiện"
+
+msgid "Text which displayed instead filter while it is closed if selected."
+msgstr ""
+"Văn bản được hiển thị thay thế sẽ lọc trong khi nó bị đóng nếu được chọn."
+
+msgid "Thank you, I did it!"
+msgstr "Cảm ơn bạn, tôi đã làm được!"
+
+msgid "The placeholder in title field"
+msgstr "Trình giữ chỗ trong trường tiêu đề"
+
+msgid "The result is only with the full coincidence of words"
+msgstr "Kết quả là chỉ với sự trùng hợp hoàn toàn của các từ"
+
+msgid "The submit and reset buttons position in current search form"
+msgstr "Vị trí nút gửi và đặt lại trong biểu mẫu tìm kiếm hiện tại"
+
+msgid "The text before the block of subscription block"
+msgstr "Văn bản trước khối đăng ký khối"
+
+msgid "The text in the button"
+msgstr "Văn bản trong nút"
+
+msgid ""
+"This button is just helper which allows to assemble data for [woof] shortcode."
+msgstr ""
+"Nút này chỉ là công cụ trợ giúp cho phép tập hợp dữ liệu cho shortcode [woof]."
+
+msgid ""
+"This data is very important for assembling statistics data, so please fill "
+"fields very responsibly. To collect statistical data uses a separate MySQL "
+"table."
+msgstr ""
+"Dữ liệu này rất quan trọng để tập hợp dữ liệu thống kê, vì vậy hãy điền vào "
+"các trường một cách có trách nhiệm. Để thu thập dữ liệu thống kê, hãy sử dụng "
+"một bảng MySQL riêng biệt."
+
+msgid "This link does not work."
+msgstr "Liên kết này không hoạt động."
+
+msgid ""
+"This option enables or disables initialization of the plugin on all pages of "
+"the site except links and link-masks in the textarea. One row - one link (or "
+"link-mask)! Example of link: http://site.com/ajaxed-search-7. Example of link-"
+"mask: product-category . Leave it empty to allow the plugin initialization on "
+"all pages of the site!"
+msgstr ""
+"Tùy chọn này cho phép hoặc vô hiệu hóa việc khởi tạo plugin trên tất cả các "
+"trang của trang web ngoại trừ các liên kết và mặt nạ liên kết trong vùng văn "
+"bản. Một hàng - một liên kết (hoặc mặt nạ liên kết)! Ví dụ về liên kết: http://"
+"site.com/ajaxed-search-7. Ví dụ về link-mask: product-category. Để trống để "
+"cho phép khởi tạo plugin trên tất cả các trang của trang web!"
+
+msgid ""
+"This option place WOOF JavaScript files on the site footer. Use it for page "
+"loading optimization. Be care with this option, and always after enabling of "
+"it test your site frontend!"
+msgstr ""
+"Tùy chọn này đặt các tệp JavaScript WOOF trên chân trang của trang web. Sử "
+"dụng nó để tối ưu hóa tải trang. Hãy cẩn thận với tùy chọn này và luôn luôn "
+"sau khi kích hoạt nó, hãy kiểm tra giao diện người dùng trang web của bạn!"
+
+msgid "This option should be set"
+msgstr "Tùy chọn này nên được thiết lập"
+
+msgid ""
+"This plugin provides an easy to use interface to create and administer custom "
+"post types and taxonomies in WordPress."
+msgstr ""
+"Plugin này cung cấp một giao diện dễ sử dụng để tạo và quản lý các loại bài "
+"đăng tùy chỉnh và phân loại trong WordPress."
+
+msgid "This product matches your search %title%."
+msgstr "Sản phẩm này phù hợp với% title% tìm kiếm của bạn."
+
+msgid "This works with ionSlider only"
+msgstr "Điều này chỉ hoạt động với ionSlider"
+
+msgid "Title"
+msgstr "Tựa"
+
+msgid "Title of the Query*"
+msgstr "Tiêu đề của Truy vấn *"
+
+msgid "Title of the email"
+msgstr "Tiêu đề của email"
+
+msgid "Title text"
+msgstr "Tiêu đề văn bản"
+
+msgid "To"
+msgstr "Đến"
+
+msgid ""
+"To update the key, just delete it and save the plugin settings. Key should be "
+"min 16 symbols."
+msgstr ""
+"Để cập nhật khóa, chỉ cần xóa nó và lưu cài đặt plugin. Khóa phải có tối thiểu "
+"16 ký hiệu."
+
+msgid "Toggle block type"
+msgstr "Chuyển đổi loại khối"
+
+msgid ""
+"Toggle text for closed html-items block. Example: open. By default applied "
+"sign plus \"+\""
+msgstr ""
+"Chuyển đổi văn bản cho khối html-items đã đóng. Ví dụ: mở. Theo mặc định được "
+"áp dụng dấu cộng \\ \"+ \""
+
+msgid ""
+"Toggle text for opened html-items block. Example: close. By default applied "
+"sign minus \"-\""
+msgstr ""
+"Chuyển đổi văn bản cho khối html-items đã mở. Ví dụ: đóng. Theo mặc định, dấu "
+"trừ \\ \"- \" được áp dụng"
+
+msgid "Tooltip"
+msgstr "Chú giải công cụ"
+
+msgid "Tooltip icon"
+msgstr "Biểu tượng chú giải công cụ"
+
+msgid "Tooltip text"
+msgstr "Văn bản chú giải công cụ"
+
+msgid "Top"
+msgstr "Hàng đầu"
+
+msgid "Top AND Bottom"
+msgstr "Trên cùng và dưới cùng"
+
+msgid ""
+"Try new WooCommerce plugin for displaying your shop products in table format"
+msgstr ""
+"Hãy thử plugin WooCommerce mới để hiển thị các sản phẩm cửa hàng của bạn ở "
+"định dạng bảng"
+
+msgid "Try to ajaxify the shop"
+msgstr "Cố gắng hủy bỏ cửa hàng"
+
+msgid "Turbo mode"
+msgstr "Chế độ Turbo"
+
+msgid "Two months"
+msgstr "Hai tháng"
+
+msgid "Two weeks"
+msgstr "Hai tuần"
+
+msgid ""
+"Type of the toogle on the front for block of html-items as: radio, "
+"checkbox .... Works only if the block title is not hidden!"
+msgstr ""
+"Loại toogle ở ​​mặt trước cho khối html-items như: radio, checkbox .... Chỉ hoạt "
+"động nếu tiêu đề khối không bị ẩn!"
+
+msgid "Unsubscribe"
+msgstr "Hủy đăng ký"
+
+msgid "Update"
+msgstr "cập nhật"
+
+msgid "Update now!"
+msgstr "Cập nhật bây giờ!"
+
+msgid "Url of the custom image for the button"
+msgstr "Url của hình ảnh tùy chỉnh cho nút"
+
+msgid ""
+"Use WordPress Cron if your site has a lot of traffic, and external cron if the "
+"site traffic is not big. External cron is more predictable with time of "
+"execution, but additional knowledge how to set it correctly is required "
+"(External cron will be ready in the next version of the extension)"
+msgstr ""
+"Sử dụng WordPress Cron nếu trang web của bạn có nhiều lưu lượng truy cập và "
+"cron bên ngoài nếu lưu lượng truy cập trang web không lớn. Cron bên ngoài dễ "
+"dự đoán hơn với thời gian thực thi, nhưng cần phải có thêm kiến ​​thức về cách "
+"đặt nó một cách chính xác ( Cron bên ngoài sẽ sẵn sàng trong phiên bản tiếp "
+"theo của tiện ích mở rộng )"
+
+msgid "Use beauty scroll"
+msgstr "Sử dụng cuộn làm đẹp"
+
+msgid ""
+"Use beauty scroll when you apply max height for taxonomy block on the front"
+msgstr ""
+"Sử dụng cuộn làm đẹp khi bạn áp dụng chiều cao tối đa cho khối phân loại ở mặt "
+"trước"
+
+msgid "Use chosen"
+msgstr "Sử dụng đã chọn"
+
+msgid "Use chosen javascript library on the front of your site for drop-downs."
+msgstr ""
+"Sử dụng thư viện javascript đã chọn ở phía trước trang web của bạn cho các "
+"trình đơn thả xuống."
+
+msgid ""
+"Use comma as in example: 1,2,3,4,5. If you want structure like title->value "
+"use next syntax example: France^1,Germany^2,USA^3. Countries are titles here."
+msgstr ""
+"Sử dụng dấu phẩy như trong ví dụ: 1,2,3,4,5. Nếu bạn muốn cấu trúc như title-> "
+"value, hãy sử dụng ví dụ cú pháp tiếp theo: France ^ 1, Germany ^ 2, USA ^ 3. "
+"Các quốc gia là tiêu đề ở đây."
+
+msgid "Use for"
+msgstr "Dùng cho"
+
+msgid "Use image as radio button"
+msgstr "Sử dụng hình ảnh làm nút radio"
+
+msgid ""
+"Use it if you can not translate your custom taxonomies labels and attributes "
+"labels by another plugins."
+msgstr ""
+"Sử dụng nó nếu bạn không thể dịch các nhãn phân loại tùy chỉnh và nhãn thuộc "
+"tính của mình bằng các plugin khác."
+
+msgid ""
+"Use it when you are need additional action after AJAX redraw your products in "
+"shop page or in page with shortcode! For use when you need additional "
+"functionality after AJAX redraw of your products on the shop page or on pages "
+"with shortcodes."
+msgstr ""
+"Sử dụng nó khi bạn cần hành động bổ sung sau khi AJAX vẽ lại các sản phẩm của "
+"bạn trong trang cửa hàng hoặc trong trang bằng shortcode! Để sử dụng khi bạn "
+"cần thêm chức năng sau khi AJAX vẽ lại các sản phẩm của bạn trên trang cửa "
+"hàng hoặc trên các trang có mã ngắn."
+
+msgid ""
+"Use sign # before link to apply strict compliance. Example: #https://your_site."
+"com/product-category/man/"
+msgstr ""
+"Sử dụng dấu # trước liên kết để áp dụng tuân thủ nghiêm ngặt. Ví dụ: #https: //"
+"your_site.com/product-category/man/"
+
+msgid "Use tooltip"
+msgstr "Sử dụng chú giải công cụ"
+
+msgid ""
+"Use tooltip library on the front of your site. Possible to disable it here if "
+"any scripts conflicts on the site front."
+msgstr ""
+"Sử dụng thư viện chú giải công cụ ở phía trước trang web của bạn. Có thể vô "
+"hiệu hóa nó ở đây nếu bất kỳ tập lệnh nào xung đột trên trang web."
+
+msgid ""
+"Useful thing when you already set your site IN THE PRODUCTION MODE - its "
+"getting terms for filter faster without big MySQL queries! If you actively "
+"adds new terms every day or week you can set cron period for cleaning. Another "
+"way set: 'not clean cache automatically'!"
+msgstr ""
+"Điều hữu ích khi bạn đã đặt trang web của mình Ở CHẾ ĐỘ SẢN XUẤT - nó nhận "
+"được các điều khoản để lọc nhanh hơn mà không cần các truy vấn MySQL lớn! Nếu "
+"bạn chủ động thêm các điều khoản mới hàng ngày hoặc hàng tuần, bạn có thể đặt "
+"khoảng thời gian cron để làm sạch. Một cách khác được thiết lập: ' không tự "
+"động làm sạch bộ nhớ cache '!"
+
+msgid ""
+"Useful thing when you already set your site IN THE PRODUCTION MODE and use "
+"dynamic recount -> it make recount very fast! Of course if you added new "
+"products which have to be in search results you have to clean this cache OR "
+"you can set time period for auto cleaning!"
+msgstr ""
+"Điều hữu ích khi bạn đã đặt trang web của mình Ở CHẾ ĐỘ SẢN XUẤT và sử dụng "
+"tính năng kể lại động -> việc kể lại rất nhanh! Tất nhiên nếu bạn đã thêm các "
+"sản phẩm mới phải có trong kết quả tìm kiếm, bạn phải xóa bộ nhớ cache này "
+"HOẶC bạn có thể đặt khoảng thời gian để tự động làm sạch!"
+
+msgid "User"
+msgstr "người sử dang"
+
+msgid "User can save the search query"
+msgstr "Người dùng có thể lưu truy vấn tìm kiếm"
+
+msgid ""
+"User on the site front will have to press button like \"Show products filter "
+"form\" to load search form by ajax and start filtering. Good feature when "
+"search form is quite big and page loading takes more time because of it!"
+msgstr ""
+"Người dùng trên trang web sẽ phải nhấn nút như \\ \"Hiển thị mẫu bộ lọc sản "
+"phẩm \" để tải biểu mẫu tìm kiếm bằng ajax và bắt đầu lọc. Tính năng hay khi "
+"hình thức tìm kiếm khá lớn và tải trang mất nhiều thời gian hơn vì nó!"
+
+msgid "Value exists"
+msgstr "Giá trị tồn tại"
+
+msgid "Video tutorials"
+msgstr "video hướng dẫn"
+
+msgid "View"
+msgstr "Xem"
+
+msgid "View of the search by author"
+msgstr "Chế độ xem tìm kiếm của tác giả"
+
+msgid "View of the taxonomies terms on the front"
+msgstr "Xem các thuật ngữ phân loại ở mặt trước"
+
+msgid "View product"
+msgstr "Xem sản phẩm"
+
+msgid ""
+"WARNING: this action will overwrite all current WOOF settings. Insert WOOF "
+"settings data you need to import! Here you can import only WOOF settings and "
+"nothing more! If your site don`t have taxonomies WOOF will not create them "
+"(you should create taxonomies before)."
+msgstr ""
+"CẢNH BÁO: hành động này sẽ ghi đè tất cả cài đặt WOOF hiện tại. Chèn dữ liệu "
+"cài đặt WOOF bạn cần nhập! Tại đây, bạn chỉ có thể nhập cài đặt WOOF và không "
+"có gì khác! Nếu trang web của bạn không có các đơn vị phân loại, WOOF sẽ không "
+"tạo chúng (bạn nên tạo các đơn vị phân loại trước đó)."
+
+msgid "WOOBE"
+msgstr "WOOBE"
+
+msgid "WOOCS"
+msgstr "SỔ"
+
+msgid "WOOF - WooCommerce Products Filter"
+msgstr "WOOF - Bộ lọc sản phẩm thương mại WooC"
+
+msgid "WOOF - WooCommerce Products Filter v.%s"
+msgstr "WOOF - Bộ lọc Sản phẩm WooCommerce v.%s"
+
+msgid "WOOF FULL VERSION"
+msgstr "PHIÊN BẢN ĐẦY ĐỦ CỦA WOOF"
+
+msgid ""
+"WOOF cannot create database table for statistic! Make sure that your mysql "
+"user has the CREATE privilege! Do it manually using your host panel&phpmyadmin!"
+msgstr ""
+"WOOF không thể tạo bảng cơ sở dữ liệu để thống kê! Đảm bảo rằng người dùng "
+"mysql của bạn có đặc quyền CREATE! Làm điều đó theo cách thủ công bằng cách sử "
+"dụng bảng điều khiển máy chủ & phpmyadmin của bạn!"
+
+msgid ""
+"WOOF cannot create the database table! Make sure that your mysql user has the "
+"CREATE privilege! Do it manually using your host panel&phpmyadmin!"
+msgstr ""
+"WOOF không thể tạo bảng cơ sở dữ liệu! Đảm bảo rằng người dùng mysql của bạn "
+"có đặc quyền CREATE! Làm điều đó theo cách thủ công bằng cách sử dụng bảng "
+"điều khiển máy chủ & phpmyadmin của bạn!"
+
+msgid "WOOF documentation"
+msgstr "Tài liệu WOOF"
+
+msgid "WOOF settings saving ..."
+msgstr "Đang lưu cài đặt WOOF ..."
+
+msgid "WOOT"
+msgstr "Woot"
+
+msgid "WPML taxonomies labels translations"
+msgstr "Bản dịch nhãn phân loại WPML"
+
+msgid "Way to show of slideout popup out: click or hover"
+msgstr "Cách hiển thị cửa sổ bật lên đĩ: nhấp hoặc di chuột"
+
+msgid "Weekly recommended"
+msgstr "Đề xuất hàng tuần"
+
+msgid "Where to keep products data file"
+msgstr "Nơi lưu tệp dữ liệu sản phẩm"
+
+msgid "Where to show slideout button: right, left, top"
+msgstr "Vị trí hiển thị nút đĩ: phải, trái, trên cùng"
+
+msgid ""
+"Which limitation has priority. Event after which user stop getting the emails. "
+"Both - means that any first event of two ones, will reset user subscription."
+msgstr ""
+"Hạn chế nào có quyền ưu tiên. Sự kiện sau đó người dùng ngừng nhận email. Cả "
+"hai - có nghĩa là bất kỳ sự kiện đầu tiên nào của hai sự kiện, sẽ đặt lại đăng "
+"ký của người dùng."
+
+msgid "Widget Logic lets you control on which pages widgets appear using"
+msgstr ""
+"Widget Logic cho phép bạn kiểm soát các trang mà widget xuất hiện bằng cách sử "
+"dụng"
+
+msgid "Width X Height (px) of the button image"
+msgstr "Chiều rộng X Chiều cao (px) của hình ảnh nút"
+
+msgid "Width and height of the popup html container size in (px)"
+msgstr ""
+"Chiều rộng và chiều cao của kích thước vùng chứa html bật lên tính bằng (px)"
+
+msgid ""
+"Will the plugin look in each variable of variable products. Request for "
+"variables products creates more mysql queries in database ..."
+msgstr ""
+"Plugin sẽ xem xét trong từng biến của các sản phẩm biến đổi. Yêu cầu đối với "
+"các sản phẩm biến tạo ra nhiều truy vấn mysql hơn trong cơ sở dữ liệu ..."
+
+msgid ""
+"WooCommerce Active Products Table - WOOT - (new name is PROTAS) WooCommerce "
+"plugin for displaying shop products in table format. Woo Products Tables makes "
+"focus for your buyers on the things they want to get, nothing superfluous, "
+"just what the client wants, and full attention to what is offered!"
+msgstr ""
+"WooCommerce Active Products Table - WOOT - (tên mới là PROTAS) Plugin "
+"WooCommerce để hiển thị các sản phẩm của shop ở dạng bảng. Woo Products Tables "
+"giúp người mua của bạn tập trung vào những thứ họ muốn nhận được, không có gì "
+"thừa, chỉ là những gì khách hàng muốn và toàn bộ sự chú ý đến những gì được "
+"cung cấp!"
+
+msgid "WooCommerce Bulk Editor"
+msgstr "Trình chỉnh sửa hàng loạt WooCommerce"
+
+msgid ""
+"WooCommerce Currency Switcher – is the plugin that allows you to switch to "
+"different currencies and get their rates converted in the real time!"
+msgstr ""
+"WooCommerce Currency Switcher - là plugin cho phép bạn chuyển đổi sang các "
+"loại tiền tệ khác nhau và chuyển đổi tỷ giá của chúng trong thời gian thực!"
+
+msgid "WooCommerce Currency Swither"
+msgstr "Chuyển đổi tiền tệ WooCommerce"
+
+msgid "WooCommerce Products Filter"
+msgstr "Bộ lọc sản phẩm WooCommerce"
+
+msgid "WooCommerce Products Filter by realmag777"
+msgstr "Sản phẩm WooCommerce Bộ lọc theo Realag777"
+
+msgid "WooCommerce Products Tables"
+msgstr "Bảng sản phẩm WooCommerce"
+
+msgid "Word while searching is going on front when \"Overlay skins\" is default."
+msgstr ""
+"Word trong khi tìm kiếm sẽ xuất hiện ở phía trước khi \\ \"Lớp phủ giao diện "
+"\" là mặc định."
+
+msgid "WordPress Cron"
+msgstr "WordPress Cron"
+
+msgid "WordPress Cron period"
+msgstr "WordPress Cron thời kỳ"
+
+msgid "WordPress cron period"
+msgstr "Thời kỳ cron của WordPress"
+
+msgid ""
+"WordPress plugin for managing and bulk edit WooCommerce Products data in "
+"robust and flexible way! Be professionals with managing data of your "
+"woocommerce e-shop!"
+msgstr ""
+"Plugin WordPress để quản lý và chỉnh sửa hàng loạt dữ liệu Sản phẩm "
+"WooCommerce một cách mạnh mẽ và linh hoạt! Hãy trở thành những chuyên gia quản "
+"lý dữ liệu của cửa hàng thương mại điện tử woocommerce của bạn!"
+
+msgid ""
+"Works for radio and checkboxes only. Allows show radio/checkboxes in 1 row!"
+msgstr ""
+"Chỉ hoạt động cho radio và hộp kiểm. Cho phép hiển thị radio / hộp kiểm trong "
+"1 hàng!"
+
+msgid "Yes"
+msgstr "Có"
+
+msgid ""
+"Yes - filtering starts immediately if user changed any item in the search "
+"form. No - user can set search data and then should press Filter button"
+msgstr ""
+"Có - lọc bắt đầu ngay lập tức nếu người dùng thay đổi bất kỳ mục nào trong "
+"biểu mẫu tìm kiếm. Không - người dùng có thể đặt dữ liệu tìm kiếm và sau đó "
+"nhấn nút Bộ lọc"
+
+msgid "Yes(only if the product exists)"
+msgstr "Có (chỉ khi sản phẩm tồn tại)"
+
+msgid "Yes, but only for desktop"
+msgstr "Có, nhưng chỉ dành cho máy tính để bàn"
+
+msgid "Yes, but only for mobile devices"
+msgstr "Có, nhưng chỉ dành cho thiết bị di động"
+
+msgid "Yes, show as closed"
+msgstr "Có, hiển thị là đã đóng cửa"
+
+msgid "Yes, show as opened"
+msgstr "Có, hiển thị như đã mở"
+
+msgid "You are unsubscribed from the future products newsletters."
+msgstr "Bạn đã hủy đăng ký nhận bản tin sản phẩm trong tương lai."
+
+msgid ""
+"You can always assemble products data for Turbo Mode by one click! While its "
+"assembling filtering on the site front is still possible with previous "
+"assembled products data until new data assembled!"
+msgstr ""
+"Bạn luôn có thể tập hợp dữ liệu sản phẩm cho Chế độ Turbo bằng một cú nhấp "
+"chuột! Trong khi việc lọc tập hợp của nó trên mặt trận vẫn có thể thực hiện "
+"được với dữ liệu các sản phẩm đã được lắp ráp trước đó cho đến khi dữ liệu mới "
+"được tập hợp!"
+
+msgid ""
+"You can define the conditions for displaying filter elements depending of the "
+"current filtering request. Briefly this feature allows to hide some filter-"
+"elements while others are not selected. Or vice versa - show some filter-"
+"elements if some another filter elements are selected."
+msgstr ""
+"Bạn có thể xác định các điều kiện để hiển thị các phần tử bộ lọc tùy thuộc vào "
+"yêu cầu lọc hiện tại. Tóm lại, tính năng này cho phép ẩn một số phần tử bộ lọc "
+"trong khi những phần tử khác không được chọn. Hoặc ngược lại - hiển thị một số "
+"phần tử bộ lọc nếu một số phần tử bộ lọc khác được chọn."
+
+msgid "You can define whith which role show users in the drop down"
+msgstr ""
+"Bạn có thể xác định vai trò nào hiển thị cho người dùng trong menu thả xuống"
+
+msgid "You should write extension info in info.dat file!"
+msgstr "Bạn nên viết thông tin phần mở rộng trong tệp info.dat!"
+
+msgid "You unsubscribed from the newsletter."
+msgstr "Bạn đã hủy đăng ký nhận bản tin."
+
+msgid "Your settings have been saved."
+msgstr "Cài đặt của bạn đã được lưu."
+
+msgid "additional options"
+msgstr "tùy chọn bổ sung"
+
+msgid "all"
+msgstr "tất cả các"
+
+msgid "as Image"
+msgstr "như hình ảnh"
+
+msgid "as Text"
+msgstr "dưới dạng văn bản"
+
+msgid "average rating between 1 to 2-"
+msgstr "xếp hạng trung bình từ 1 đến 2"
+
+msgid "average rating between 2 to 3-"
+msgstr "xếp hạng trung bình từ 2 đến 3"
+
+msgid "average rating between 3 to 4-"
+msgstr "xếp hạng trung bình từ 3 đến 4"
+
+msgid "average rating between 4 to 5"
+msgstr "xếp hạng trung bình từ 4 đến 5"
+
+msgid "background image url 25x25"
+msgstr "url hình nền 25x25"
+
+msgid "behavior of the text searching"
+msgstr "hành vi tìm kiếm văn bản"
+
+msgid "by SKU"
+msgstr "theo SKU"
+
+msgid "clean cache automatically daily"
+msgstr "tự động dọn dẹp bộ nhớ cache hàng ngày"
+
+msgid "clean cache automatically each 2 days"
+msgstr "tự động xóa bộ nhớ cache 2 ngày một lần"
+
+msgid "clean cache automatically each 3 days"
+msgstr "tự động xóa bộ nhớ cache 3 ngày một lần"
+
+msgid "clean cache automatically each 4 days"
+msgstr "tự động xóa bộ nhớ cache 4 ngày một lần"
+
+msgid "clean cache automatically each 5 days"
+msgstr "tự động xóa bộ nhớ cache 5 ngày một lần"
+
+msgid "clean cache automatically each 6 days"
+msgstr "tự động xóa bộ nhớ cache 6 ngày một lần"
+
+msgid "clean cache automatically each 7 days"
+msgstr "tự động xóa bộ nhớ cache 7 ngày một lần"
+
+msgid "clean cache automatically hourly"
+msgstr "làm sạch bộ nhớ cache tự động hàng giờ"
+
+msgid "clean cache automatically twicedaily"
+msgstr "làm sạch bộ nhớ cache tự động hai lần"
+
+msgid "clear"
+msgstr "trong sáng"
+
+msgid "clear cache"
+msgstr "Xóa bộ nhớ cache"
+
+msgid "clear terms cache"
+msgstr "xóa bộ nhớ cache điều khoản"
+
+msgid "daily"
+msgstr "hàng ngày."
+
+msgid "date"
+msgstr "ngày"
+
+msgid "default_overlay_skin_word"
+msgstr "default_overlay_skin_word"
+
+msgid "delete"
+msgstr "xóa"
+
+msgid "do not clean cache automatically"
+msgstr "không tự động dọn dẹp bộ nhớ cache"
+
+msgid "do not use shortcodes here in turbo mode"
+msgstr "không sử dụng mã ngắn ở đây trong chế độ turbo"
+
+msgid "drag and drope"
+msgstr "kéo và thả"
+
+msgid "drawing graphs ..."
+msgstr "vẽ đồ thị ..."
+
+msgid "each %s days"
+msgstr "mỗi %s ngày"
+
+msgid "enter a product sku here ..."
+msgstr "nhập sku sản phẩm tại đây ..."
+
+msgid "enter a product title here ..."
+msgstr "nhập tiêu đề sản phẩm tại đây ..."
+
+msgid "enter a text here ..."
+msgstr "nhập văn bản vào đây ..."
+
+msgid "enter product ID"
+msgstr "nhập ID sản phẩm"
+
+msgid "enter title"
+msgstr "nhập tiêu đề"
+
+msgid "excluded terms ids"
+msgstr "id điều khoản bị loại trừ"
+
+msgid "filter by price"
+msgstr "lọc theo giá"
+
+msgid "finished!"
+msgstr "đã kết thúc!"
+
+msgid "from"
+msgstr "từ"
+
+msgid "from: %s"
+msgstr "từ: %s"
+
+msgid "full version of the plugin"
+msgstr "phiên bản đầy đủ của plugin"
+
+msgid "hide products filter"
+msgstr "ẩn bộ lọc sản phẩm"
+
+msgid "hourly"
+msgstr "giờ"
+
+msgid "how to show slideout popup after page loaded: opened or closed"
+msgstr "cách hiển thị cửa sổ bật lên slideout sau khi tải trang: mở hoặc đóng"
+
+msgid "jQuery-ui calendar date format"
+msgstr "định dạng ngày lịch jQuery-ui"
+
+msgid "leave it empty to show all terms"
+msgstr "để trống để hiển thị tất cả các điều khoản"
+
+msgid "leave it empty to use native taxonomy name"
+msgstr "để trống để sử dụng tên phân loại tự nhiên"
+
+msgid "max price"
+msgstr "giá tối đa"
+
+msgid "menu order"
+msgstr "thực đơn gọi món"
+
+msgid "min price"
+msgstr "giá tối thiểu"
+
+msgid "min1"
+msgstr "min1"
+
+msgid "monthly"
+msgstr "hàng tháng"
+
+msgid "move"
+msgstr "di chuyển"
+
+msgid "new"
+msgstr "mới"
+
+msgid "new window"
+msgstr "cửa sổ mới"
+
+msgid "number"
+msgstr "con số"
+
+msgid "orderby"
+msgstr "đặt bởi"
+
+msgid "per page"
+msgstr "trên một trang"
+
+msgid "popularity"
+msgstr "phổ biến"
+
+msgid "popup animation speed in (ms)"
+msgstr "tốc độ hoạt ảnh bật lên tính bằng (mili giây)"
+
+msgid "predifined step"
+msgstr "bước xác định trước"
+
+msgid "price high to low"
+msgstr "giá từ cao đến thấp"
+
+msgid "price low to high"
+msgstr "giá thấp đến cao"
+
+msgid "price range"
+msgstr "phạm vi giá"
+
+msgid "px"
+msgstr "px"
+
+msgid "rating"
+msgstr "giá"
+
+msgid "remove extension"
+msgstr "xóa phần mở rộng"
+
+msgid "select image"
+msgstr "chọn ảnh"
+
+msgid "set link to the image"
+msgstr "đặt liên kết đến hình ảnh"
+
+msgid "show blocks helper"
+msgstr "khối chương trình trợ giúp"
+
+msgid "show products filter"
+msgstr "hiển thị bộ lọc sản phẩm"
+
+msgid "string"
+msgstr "chuỗi"
+
+msgid "support"
+msgstr "hỗ trợ"
+
+msgid "the same window"
+msgstr "cùng một cửa sổ"
+
+msgid "to"
+msgstr "đến"
+
+msgid "to: %s"
+msgstr "đến: %s"
+
+msgid "toggle"
+msgstr "bật lên"
+
+msgid "toggle color terms"
+msgstr "chuyển đổi thuật ngữ màu sắc"
+
+msgid "toggle image terms"
+msgstr "chuyển đổi thuật ngữ hình ảnh"
+
+msgid "twicedaily"
+msgstr "hai lần mỗi ngày"
+
+msgid "twicemonthly"
+msgstr "hai lần một tháng"
+
+msgid "unsubscribe"
+msgstr "hủy đăng ký"
+
+msgid "weekly"
+msgstr "hàng tuần"
+
+msgid "without update"
+msgstr "không có cập nhật"
+
+msgid "xxx"
+msgstr "xxx"
+
+msgid "Сlear"
+msgstr "Сlear"
+
+msgid "Сonditionals"
+msgstr "С điều kiện"
+
+msgid "Сontainer size"
+msgstr "Kích thước Сontainer"
+
+msgid "Сount is max"
+msgstr "Số tiền là tối đa"
+
+msgid ""
+"For more marketing attraction of the shop WOOF team recommends you to install"
+msgstr ""
+"Để biết thêm thông tin, marketing attraction of the shop WOOF team recommends "
+"you to install"
+
+msgid ""
+"Try new plugin for managing and bulk edit WooCommerce Products data in robust "
+"and flexible way"
+msgstr ""
+"Dùng thử plugin mới để quản lý và chỉnh sửa hàng loạt dữ liệu Sản phẩm "
+"WooCommerce một cách mạnh mẽ và linh hoạt"
+
+msgid "Go Pro!"
+msgstr "Đi pro!"
+
+msgid "In FREE version it is possible to operate with 1 condition (first) only!"
+msgstr ""
+"Trong phiên bản MIỄN PHÍ, chỉ có thể hoạt động với 1 điều kiện (đầu tiên)!"
+
+msgid "Possible keys"
+msgstr "Chìa khóa có thể"

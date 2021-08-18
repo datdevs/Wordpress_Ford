@@ -1,0 +1,2464 @@
+@charset "UTF-8";
+
+/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
+
+/* Document
+   ========================================================================== */
+
+/**
+ * 1. Correct the line height in all browsers.
+ * 2. Prevent adjustments of font size after orientation changes in iOS.
+ */
+
+html {
+    line-height: 1.15;
+    /* 1 */
+    -webkit-text-size-adjust: 100%;
+    /* 2 */
+}
+
+/* Sections
+   ========================================================================== */
+
+/**
+ * Remove the margin in all browsers.
+ */
+
+body {
+    margin: 0;
+}
+
+/**
+ * Render the `main` element consistently in IE.
+ */
+
+main {
+    display: block;
+}
+
+/**
+ * Correct the font size and margin on `h1` elements within `section` and
+ * `article` contexts in Chrome, Firefox, and Safari.
+ */
+
+h1 {
+    font-size: 2em;
+    margin: 0.67em 0;
+}
+
+/* Grouping content
+   ========================================================================== */
+
+/**
+ * 1. Add the correct box sizing in Firefox.
+ * 2. Show the overflow in Edge and IE.
+ */
+
+hr {
+    box-sizing: content-box;
+    /* 1 */
+    height: 0;
+    /* 1 */
+    overflow: visible;
+    /* 2 */
+}
+
+/**
+ * 1. Correct the inheritance and scaling of font size in all browsers.
+ * 2. Correct the odd `em` font sizing in all browsers.
+ */
+
+pre {
+    font-family: monospace, monospace;
+    /* 1 */
+    font-size: 1em;
+    /* 2 */
+}
+
+/* Text-level semantics
+   ========================================================================== */
+
+/**
+ * Remove the gray background on active links in IE 10.
+ */
+
+a {
+    background-color: transparent;
+}
+
+/**
+ * 1. Remove the bottom border in Chrome 57-
+ * 2. Add the correct text decoration in Chrome, Edge, IE, Opera, and Safari.
+ */
+
+abbr[title] {
+    border-bottom: none;
+    /* 1 */
+    text-decoration: underline;
+    /* 2 */
+    text-decoration: underline dotted;
+    /* 2 */
+}
+
+/**
+ * Add the correct font weight in Chrome, Edge, and Safari.
+ */
+
+b,
+strong {
+    font-weight: bolder;
+}
+
+/**
+ * 1. Correct the inheritance and scaling of font size in all browsers.
+ * 2. Correct the odd `em` font sizing in all browsers.
+ */
+
+code,
+kbd,
+samp {
+    font-family: monospace, monospace;
+    /* 1 */
+    font-size: 1em;
+    /* 2 */
+}
+
+/**
+ * Add the correct font size in all browsers.
+ */
+
+small {
+    font-size: 80%;
+}
+
+/**
+ * Prevent `sub` and `sup` elements from affecting the line height in
+ * all browsers.
+ */
+
+sub,
+sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+
+sub {
+    bottom: -0.25em;
+}
+
+sup {
+    top: -0.5em;
+}
+
+/* Embedded content
+   ========================================================================== */
+
+/**
+ * Remove the border on images inside links in IE 10.
+ */
+
+img {
+    border-style: none;
+}
+
+/* Forms
+   ========================================================================== */
+
+/**
+ * 1. Change the font styles in all browsers.
+ * 2. Remove the margin in Firefox and Safari.
+ */
+
+button,
+input,
+optgroup,
+select,
+textarea {
+    font-family: inherit;
+    /* 1 */
+    font-size: 100%;
+    /* 1 */
+    line-height: 1.15;
+    /* 1 */
+    margin: 0;
+    /* 2 */
+}
+
+/**
+ * Show the overflow in IE.
+ * 1. Show the overflow in Edge.
+ */
+
+button,
+input {
+    /* 1 */
+    overflow: visible;
+}
+
+/**
+ * Remove the inheritance of text transform in Edge, Firefox, and IE.
+ * 1. Remove the inheritance of text transform in Firefox.
+ */
+
+button,
+select {
+    /* 1 */
+    text-transform: none;
+}
+
+/**
+ * Correct the inability to style clickable types in iOS and Safari.
+ */
+
+button,
+[type="button"],
+[type="reset"],
+[type="submit"] {
+    -webkit-appearance: button;
+}
+
+/**
+ * Remove the inner border and padding in Firefox.
+ */
+
+button::-moz-focus-inner,
+[type="button"]::-moz-focus-inner,
+[type="reset"]::-moz-focus-inner,
+[type="submit"]::-moz-focus-inner {
+    border-style: none;
+    padding: 0;
+}
+
+/**
+ * Restore the focus styles unset by the previous rule.
+ */
+
+button:-moz-focusring,
+[type="button"]:-moz-focusring,
+[type="reset"]:-moz-focusring,
+[type="submit"]:-moz-focusring {
+    outline: 1px dotted ButtonText;
+}
+
+/**
+ * Correct the padding in Firefox.
+ */
+
+fieldset {
+    padding: 0.35em 0.75em 0.625em;
+}
+
+/**
+ * 1. Correct the text wrapping in Edge and IE.
+ * 2. Correct the color inheritance from `fieldset` elements in IE.
+ * 3. Remove the padding so developers are not caught out when they zero out
+ *    `fieldset` elements in all browsers.
+ */
+
+legend {
+    box-sizing: border-box;
+    /* 1 */
+    color: inherit;
+    /* 2 */
+    display: table;
+    /* 1 */
+    max-width: 100%;
+    /* 1 */
+    padding: 0;
+    /* 3 */
+    white-space: normal;
+    /* 1 */
+}
+
+/**
+ * Add the correct vertical alignment in Chrome, Firefox, and Opera.
+ */
+
+progress {
+    vertical-align: baseline;
+}
+
+/**
+ * Remove the default vertical scrollbar in IE 10+.
+ */
+
+textarea {
+    overflow: auto;
+}
+
+/**
+ * 1. Add the correct box sizing in IE 10.
+ * 2. Remove the padding in IE 10.
+ */
+
+[type="checkbox"],
+[type="radio"] {
+    box-sizing: border-box;
+    /* 1 */
+    padding: 0;
+    /* 2 */
+}
+
+/**
+ * Correct the cursor style of increment and decrement buttons in Chrome.
+ */
+
+[type="number"]::-webkit-inner-spin-button,
+[type="number"]::-webkit-outer-spin-button {
+    height: auto;
+}
+
+/**
+ * 1. Correct the odd appearance in Chrome and Safari.
+ * 2. Correct the outline style in Safari.
+ */
+
+[type="search"] {
+    -webkit-appearance: textfield;
+    /* 1 */
+    outline-offset: -2px;
+    /* 2 */
+}
+
+/**
+ * Remove the inner padding in Chrome and Safari on macOS.
+ */
+
+[type="search"]::-webkit-search-decoration {
+    -webkit-appearance: none;
+}
+
+/**
+ * 1. Correct the inability to style clickable types in iOS and Safari.
+ * 2. Change font properties to `inherit` in Safari.
+ */
+
+::-webkit-file-upload-button {
+    -webkit-appearance: button;
+    /* 1 */
+    font: inherit;
+    /* 2 */
+}
+
+/* Interactive
+   ========================================================================== */
+
+/*
+ * Add the correct display in Edge, IE 10+, and Firefox.
+ */
+
+details {
+    display: block;
+}
+
+/*
+ * Add the correct display in all browsers.
+ */
+
+summary {
+    display: list-item;
+}
+
+/* Misc
+   ========================================================================== */
+
+/**
+ * Add the correct display in IE 10+.
+ */
+
+template {
+    display: none;
+}
+
+/**
+ * Add the correct display in IE 10.
+ */
+
+[hidden] {
+    display: none;
+}
+
+/**
+ * Manually forked from SUIT CSS Base: https://github.com/suitcss/base
+ * A thin layer on top of normalize.css that provides a starting point more
+ * suitable for web applications.
+ */
+
+/**
+ * Removes the default spacing and border for appropriate elements.
+ */
+
+blockquote,
+dl,
+dd,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+hr,
+figure,
+p,
+pre {
+    margin: 0;
+}
+
+button {
+    background-color: transparent;
+    background-image: none;
+}
+
+/**
+ * Work around a Firefox/IE bug where the transparent `button` background
+ * results in a loss of the default `button` focus styles.
+ */
+
+button:focus {
+    outline: 1px dotted;
+    outline: 5px auto -webkit-focus-ring-color;
+}
+
+fieldset {
+    margin: 0;
+    padding: 0;
+}
+
+ol,
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+/**
+ * Tailwind custom reset styles
+ */
+
+/**
+ * 1. Use the user's configured `sans` font-family (with Tailwind's default
+ *    sans-serif font stack as a fallback) as a sane default.
+ * 2. Use Tailwind's default "normal" line-height so the user isn't forced
+ *    to override it to ensure consistency even when using the default theme.
+ */
+
+html {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    /* 1 */
+    line-height: 1.5;
+    /* 2 */
+}
+
+/**
+ * 1. Prevent padding and border from affecting element width.
+ *
+ *    We used to set this in the html element and inherit from
+ *    the parent element for everything else. This caused issues
+ *    in shadow-dom-enhanced elements like <details> where the content
+ *    is wrapped by a div with box-sizing set to `content-box`.
+ *
+ *    https://github.com/mozdevs/cssremedy/issues/4
+ *
+ *
+ * 2. Allow adding a border to an element by just adding a border-width.
+ *
+ *    By default, the way the browser specifies that an element should have no
+ *    border is by setting it's border-style to `none` in the user-agent
+ *    stylesheet.
+ *
+ *    In order to easily add borders to elements by just setting the `border-width`
+ *    property, we change the default border-style for all elements to `solid`, and
+ *    use border-width to hide them instead. This way our `border` utilities only
+ *    need to set the `border-width` property instead of the entire `border`
+ *    shorthand, making our border utilities much more straightforward to compose.
+ *
+ *    https://github.com/tailwindcss/tailwindcss/pull/116
+ */
+
+*,
+::before,
+::after {
+    box-sizing: border-box;
+    /* 1 */
+    border-width: 0;
+    /* 2 */
+    border-style: solid;
+    /* 2 */
+    border-color: #e2e8f0;
+    /* 2 */
+}
+
+/*
+ * Ensure horizontal rules are visible by default
+ */
+
+hr {
+    border-top-width: 1px;
+}
+
+/**
+ * Undo the `border-style: none` reset that Normalize applies to images so that
+ * our `border-{width}` utilities have the expected effect.
+ *
+ * The Normalize reset is unnecessary for us since we default the border-width
+ * to 0 on all elements.
+ *
+ * https://github.com/tailwindcss/tailwindcss/issues/362
+ */
+
+img {
+    border-style: solid;
+}
+
+textarea {
+    resize: vertical;
+}
+
+input::placeholder,
+textarea::placeholder {
+    color: #a0aec0;
+}
+
+button,
+[role="button"] {
+    cursor: pointer;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-size: inherit;
+    font-weight: inherit;
+}
+
+/**
+ * Reset links to optimize for opt-in styling instead of
+ * opt-out.
+ */
+
+a {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+/**
+ * Reset form element properties that are easy to forget to
+ * style explicitly so you don't inadvertently introduce
+ * styles that deviate from your design system. These styles
+ * supplement a partial reset that is already applied by
+ * normalize.css.
+ */
+
+button,
+input,
+optgroup,
+select,
+textarea {
+    padding: 0;
+    line-height: inherit;
+    color: inherit;
+}
+
+/**
+ * Use the configured 'mono' font family for elements that
+ * are expected to be rendered with a monospace font, falling
+ * back to the system monospace stack if there is no configured
+ * 'mono' font family.
+ */
+
+pre,
+code,
+kbd,
+samp {
+    font-family: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+/**
+ * Make replaced elements `display: block` by default as that's
+ * the behavior you want almost all of the time. Inspired by
+ * CSS Remedy, with `svg` added as well.
+ *
+ * https://github.com/mozdevs/cssremedy/issues/14
+ */
+
+img,
+svg,
+video,
+canvas,
+audio,
+iframe,
+embed,
+object {
+    display: block;
+    vertical-align: middle;
+}
+
+/**
+ * Constrain images and videos to the parent width and preserve
+ * their instrinsic aspect ratio.
+ *
+ * https://github.com/mozdevs/cssremedy/issues/14
+ */
+
+img,
+video {
+    max-width: 100%;
+    height: auto;
+}
+
+[class^="bluecoral-icon-"],
+[class*=" bluecoral-icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'bluecoral_icomoon' !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    -webkit-transition: color .25s;
+    -o-transition: color .25s;
+    transition: color .25s;
+}
+
+.bluecoral-icon-chat:before {
+    content: "\e900";
+}
+
+.bluecoral-icon-close-outline:before {
+    content: "\e901";
+}
+
+.bluecoral-icon-message:before {
+    content: "\e902";
+}
+
+.bluecoral-icon-more:before {
+    content: "\e903";
+}
+
+.bluecoral-icon-phone:before {
+    content: "\e904";
+}
+
+.bluecoral-icon-phone-ver02:before {
+    content: "\e905";
+}
+
+.bluecoral-icon-select:before {
+    content: "\e906";
+}
+
+.bluecoral-icon-timer:before {
+    content: "\e907";
+}
+
+.container {
+    width: 100%;
+}
+
+@media (min-width: 640px) {
+    .container {
+        max-width: 640px;
+    }
+}
+
+@media (min-width: 768px) {
+    .container {
+        max-width: 768px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .container {
+        max-width: 1024px;
+    }
+}
+
+@media (min-width: 1280px) {
+    .container {
+        max-width: 1280px;
+    }
+}
+
+[data-tab-content-element] {
+    display: none;
+}
+
+[data-tab-content-element].on {
+    display: block;
+}
+
+.bluecoral-copy p {
+    margin-bottom: 10px;
+}
+
+@media screen and (min-width: 768px) {
+    .bluecoral-copy p {
+        margin-bottom: 15px;
+    }
+}
+
+.bluecoral-copy p+h1,
+.bluecoral-copy p+h2,
+.bluecoral-copy p+h3 {
+    margin-top: 30px;
+}
+
+.bluecoral-copy h1,
+.bluecoral-copy h2,
+.bluecoral-copy h3,
+.bluecoral-copy h4,
+.bluecoral-copy h5,
+.bluecoral-copy h6 {
+    color: #333;
+}
+
+.bluecoral-copy h1 {
+    margin: 15px 0;
+}
+
+@media screen and (min-width: 768px) {
+    .bluecoral-copy h1 {
+        margin: 20px 0;
+    }
+}
+
+.bluecoral-copy h2,
+.bluecoral-copy h3,
+.bluecoral-copy h4,
+.bluecoral-copy h5,
+.bluecoral-copy h6 {
+    margin: 10px 0;
+}
+
+@media screen and (min-width: 768px) {
+
+    .bluecoral-copy h2,
+    .bluecoral-copy h3,
+    .bluecoral-copy h4,
+    .bluecoral-copy h5,
+    .bluecoral-copy h6 {
+        margin: 15px 0;
+    }
+}
+
+.bluecoral-copy a {
+    color: #F79719;
+}
+
+.bluecoral-copy a:hover {
+    text-decoration: underline;
+}
+
+.bluecoral-copy ul {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+@media screen and (min-width: 768px) {
+    .bluecoral-copy ul {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+}
+
+.bluecoral-copy ul>li {
+    position: relative;
+    padding-left: 16px;
+    margin-bottom: 8px;
+}
+
+@media screen and (min-width: 768px) {
+    .bluecoral-copy ul>li {
+        padding-left: 18px;
+        margin-bottom: 10px;
+    }
+}
+
+.bluecoral-copy ul>li:before {
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    content: "•";
+    speak: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.bluecoral-copy ul+h1,
+.bluecoral-copy ul+h2,
+.bluecoral-copy ul+h3 {
+    margin-top: 30px;
+}
+
+.bluecoral-copy ol {
+    list-style: none;
+    counter-reset: reference;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+@media screen and (min-width: 768px) {
+    .bluecoral-copy ol {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+}
+
+.bluecoral-copy ol>li {
+    position: relative;
+    margin-bottom: 8px;
+    padding-left: 20px;
+}
+
+@media screen and (min-width: 768px) {
+    .bluecoral-copy ol>li {
+        margin-bottom: 10px;
+        padding-left: 25px;
+    }
+}
+
+.bluecoral-copy ol>li:before {
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    counter-increment: reference;
+    content: counters(reference, ".") ". ";
+    speak: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.bluecoral-copy ol+h1,
+.bluecoral-copy ol+h2,
+.bluecoral-copy ol+h3 {
+    margin-top: 30px;
+}
+
+.bluecoral-copy ul ul,
+.bluecoral-copy ul ol,
+.bluecoral-copy ol ul,
+.bluecoral-copy ol ol {
+    margin-top: 8px;
+    padding-left: 20px;
+}
+
+@media screen and (min-width: 768px) {
+
+    .bluecoral-copy ul ul,
+    .bluecoral-copy ul ol,
+    .bluecoral-copy ol ul,
+    .bluecoral-copy ol ol {
+        margin-top: 10px;
+        padding-left: 25px;
+    }
+}
+
+.bluecoral-copy ul ol li:before,
+.bluecoral-copy ol ol li:before {
+    content: "("counter(reference, lower-alpha) ")";
+}
+
+.bluecoral-copy br {
+    line-height: 10px;
+}
+
+@media screen and (min-width: 768px) {
+    .bluecoral-copy br {
+        line-height: 15px;
+    }
+}
+
+.bluecoral-copy hr {
+    height: 1px;
+    background: #000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+@media screen and (min-width: 768px) {
+    .bluecoral-copy hr {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+}
+
+.bluecoral-copy table {
+    margin: 10px 0;
+    background-color: transparent;
+    border-collapse: collapse;
+    border-spacing: 0;
+    text-align: left;
+    max-width: 100%;
+    width: 100%;
+}
+
+@media screen and (min-width: 768px) {
+    .bluecoral-copy table {
+        margin: 15px 0;
+    }
+}
+
+.bluecoral-copy table caption {
+    text-align: center;
+    background-color: transparent;
+    font-weight: bold;
+}
+
+.bluecoral-copy table caption:first-child {
+    padding-bottom: 10px;
+}
+
+.bluecoral-copy table caption:last-child {
+    padding-top: 10px;
+}
+
+.bluecoral-copy table th,
+.bluecoral-copy table td {
+    padding: 7px;
+    vertical-align: top;
+    border: 1px solid #000;
+}
+
+.bluecoral-copy blockquote {
+    text-align: center;
+    font-weight: 600;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.bluecoral-copy blockquote:before {
+    content: '“';
+}
+
+.bluecoral-copy blockquote:after {
+    content: '”';
+}
+
+@media screen and (min-width: 768px) {
+    .bluecoral-copy blockquote {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+}
+
+.bluecoral-copy img {
+    margin: 10px auto;
+    width: auto;
+    max-width: 100%;
+}
+
+@media screen and (min-width: 768px) {
+    .bluecoral-copy img {
+        width: 80%;
+        max-width: 768px;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+}
+
+.bluecoral-copy figure {
+    margin: 10px auto;
+    width: auto;
+    max-width: 100%;
+}
+
+@media screen and (min-width: 768px) {
+    .bluecoral-copy figure {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+}
+
+.bluecoral-copy iframe {
+    position: relative;
+    width: 100%;
+    height: calc((100vw - 30px) * 0.5625);
+    margin: 10px auto;
+}
+
+@media screen and (min-width: 375px) {
+    .bluecoral-copy iframe {
+        height: calc((100vw - 40px) * 0.5625);
+    }
+}
+
+@media screen and (min-width: 540px) and (max-width: 767px) {
+    .bluecoral-copy iframe {
+        height: calc(500px * 0.5625);
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .bluecoral-copy iframe {
+        width: 80%;
+        max-width: 768px;
+        height: calc(768px * 0.5625);
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+}
+
+.bluecoral-copy p+h6 {
+    margin-bottom: 4px;
+}
+
+@media screen and (min-width: 768px) {
+    .bluecoral-copy p+h6 {
+        margin-bottom: 2px;
+    }
+}
+
+.bluecoral-copy> :first-child {
+    margin-top: 0;
+}
+
+.bluecoral-copy *:last-child {
+    margin-bottom: 0;
+}
+
+[data-copy-mss] {
+    position: fixed;
+    z-index: 999999;
+    margin: 0 auto;
+    width: 350px;
+    min-height: 18px;
+    border-radius: 10px;
+    background: rgba(0, 0, 0, 0.9);
+    text-align: center;
+    padding: 8px;
+    opacity: 0;
+    -webkit-transition: opacity .2s;
+    -moz-transition: opacity .2s;
+    transition: opacity .2s;
+}
+
+[data-copy-mss].on {
+    background-color: #383d41;
+    color: #f2f3f5;
+    border-radius: 10px;
+    left: 0px;
+    right: 0px;
+    bottom: 20px;
+    opacity: 1;
+}
+
+.inputTamp {
+    position: absolute;
+    left: -99999px;
+}
+
+[data-bluecoral-chat] {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 12px;
+    line-height: 1.25;
+    color: #3B3B3B;
+    position: fixed;
+    z-index: 999999;
+    right: 20px;
+    bottom: 20px;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity .3s, visibility .3s;
+    /*remove*/
+}
+
+[data-bluecoral-chat].on {
+    opacity: 1 !important;
+    visibility: visible !important;
+}
+
+[data-bluecoral-chat] .bluecoral-lets-chat {
+    display: flex;
+    align-items: flex-end;
+}
+
+[data-bluecoral-chat] .bluecoral-lets-chat ul {
+    margin-bottom: 15px;
+}
+
+[data-bluecoral-chat] .bluecoral-lets-chat li {
+    margin-bottom: 10px;
+}
+
+[data-bluecoral-chat] .bluecoral-lets-chat a {
+    display: block;
+}
+
+[data-bluecoral-chat] .bluecoral-lets-chat .bluecoral-custom-list a {
+  width: 48px;
+  height: 48px;
+  margin: auto;
+}
+
+[data-bluecoral-chat] .bluecoral-btn {
+    display: inline-block;
+}
+
+[data-bluecoral-chat] .bluecoral-btn.bluecoral-btn-more {
+    transition: background-color 0.3s;
+    width: 36px;
+    height: 36px;
+    position: absolute;
+    bottom: 100%;
+    margin-bottom: 10px;
+    right: 12px;
+    background-color: rgba(0, 0, 0, 0.3);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 9999px;
+}
+
+[data-bluecoral-chat] .bluecoral-btn.bluecoral-btn-more [class^="bluecoral-icon-"] {
+    color: white;
+    font-size: 18px;
+}
+
+[data-bluecoral-chat] .bluecoral-btn.bluecoral-btn-more:hover {
+    background-color: rgba(247, 151, 25, 0.3);
+}
+
+[data-bluecoral-chat] .bluecoral-btn.bluecoral-btn-more:hover [class^="bluecoral-icon-"] {
+    color: #E77F11;
+}
+
+[data-bluecoral-chat] .bluecoral-btn.bluecoral-btn-link {
+    transition: background-color 0.3s, border-color 0.3s;
+}
+
+[data-bluecoral-chat] .bluecoral-btn.bluecoral-btn-link .txt {
+    transition: all 0.25s;
+}
+
+[data-bluecoral-chat] .bluecoral-btn.bluecoral-btn-link.white-bg-orange-text {
+    background-color: #fff;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
+    min-width: 90px;
+    padding: 9px 15px;
+    text-align: center;
+}
+
+[data-bluecoral-chat] .bluecoral-btn.bluecoral-btn-link.white-bg-orange-text .txt {
+    color: #F79719;
+    font-size: 12px;
+    line-height: 14px;
+    display: block;
+    font-weight: 600;
+}
+
+[data-bluecoral-chat] .bluecoral-btn.bluecoral-btn-link.white-bg-orange-text:hover {
+    background-color: #F79719;
+}
+
+[data-bluecoral-chat] .bluecoral-btn.bluecoral-btn-link.white-bg-orange-text:hover .txt {
+    color: white !important;
+}
+
+[data-bluecoral-chat] .bluecoral-btn.bluecoral-btn-link.orange-bg-white-text {
+    background-color: #F79719;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
+    min-width: 90px;
+    padding: 16px 15px;
+    text-align: center;
+}
+
+[data-bluecoral-chat] .bluecoral-btn.bluecoral-btn-link.orange-bg-white-text .txt {
+    color: white;
+    font-size: 14px;
+    line-height: 18px;
+    display: block;
+    font-weight: 600;
+}
+
+[data-bluecoral-chat] .bluecoral-btn.bluecoral-btn-link.orange-bg-white-text:hover {
+    background-color: #E77F11;
+}
+
+[data-bluecoral-chat] .bluecoral-btn.bluecoral-rounded-full {
+    border-radius: 9999px;
+}
+
+[data-bluecoral-chat] .bluecoral-btn.bluecoral-rounded-5px {
+    border-radius: 5px;
+}
+
+[data-bluecoral-chat] .bluecoral-btn.bluecoral-w-full {
+    width: 100%;
+}
+
+[data-bluecoral-chat] .bluecoral-btn-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    margin-left: -4px;
+    margin-right: -4px;
+    margin-bottom: -10px;
+}
+
+[data-bluecoral-chat] .bluecoral-btn-list .bluecoral-btn-item {
+    margin-bottom: 10px;
+    padding: 0 4px;
+}
+
+[data-bluecoral-chat] .bluecoral-form-control {
+    display: block;
+    width: 100%;
+    padding: 0;
+    outline: 0;
+    background: transparent;
+    height: auto;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: 0;
+    padding: 0;
+    color: #333;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+@media screen and (min-width: 1024px) {
+    [data-bluecoral-chat] .bluecoral-form-control {
+        line-height: 20px;
+    }
+}
+
+[data-bluecoral-chat] .bluecoral-select-custom {
+    display: block;
+    width: 100%;
+    padding: 0;
+    outline: 0;
+    background: transparent;
+    height: auto;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: 0;
+    padding: 0;
+    color: #333;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+@media screen and (min-width: 1024px) {
+    [data-bluecoral-chat] .bluecoral-select-custom {
+        line-height: 20px;
+    }
+}
+
+[data-bluecoral-chat] .select select {
+    background-repeat: no-repeat;
+    background-size: 10px auto;
+    background-position: right 15px center;
+    background-image: url(../images/select.svg);
+}
+
+[data-bluecoral-chat] input:-webkit-autofill,
+[data-bluecoral-chat] input:-webkit-autofill:hover,
+[data-bluecoral-chat] input:-webkit-autofill:focus,
+[data-bluecoral-chat] input:-webkit-autofill,
+[data-bluecoral-chat] textarea:-webkit-autofill,
+[data-bluecoral-chat] textarea:-webkit-autofill:hover,
+[data-bluecoral-chat] textarea:-webkit-autofill:focus,
+[data-bluecoral-chat] select:-webkit-autofill,
+[data-bluecoral-chat] select:-webkit-autofill:hover,
+[data-bluecoral-chat] select:-webkit-autofill:focus {
+    -webkit-text-fill-color: #333 !important;
+    -webkit-box-shadow: 0 0 0px 1000px #fff8e8 inset !important;
+    transition: background-color 5000s ease-in-out 0s !important;
+    border-color: #fff8e8 !important;
+}
+
+[data-bluecoral-chat] button {
+    display: block;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    outline: 0;
+    background: transparent;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+[data-bluecoral-chat] *::-webkit-input-placeholder {
+    color: #777 !important;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+@media screen and (min-width: 1024px) {
+    [data-bluecoral-chat] *::-webkit-input-placeholder {
+        font-size: 16px;
+        line-height: 20px;
+    }
+}
+
+[data-bluecoral-chat] *:-moz-placeholder {
+    color: #777 !important;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+@media screen and (min-width: 1024px) {
+    [data-bluecoral-chat] *:-moz-placeholder {
+        font-size: 16px;
+        line-height: 20px;
+    }
+}
+
+[data-bluecoral-chat] *::-moz-placeholder {
+    color: #777 !important;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+@media screen and (min-width: 1024px) {
+    [data-bluecoral-chat] *::-moz-placeholder {
+        font-size: 16px;
+        line-height: 20px;
+    }
+}
+
+[data-bluecoral-chat] *:-ms-input-placeholder {
+    color: #777 !important;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+@media screen and (min-width: 1024px) {
+    [data-bluecoral-chat] *:-ms-input-placeholder {
+        font-size: 16px;
+        line-height: 20px;
+    }
+}
+
+@-webkit-keyframes cp-widget-button-underlay {
+    0% {
+        opacity: .25;
+        width: 96%;
+        height: 96%;
+    }
+
+    40% {
+        opacity: .25;
+    }
+
+    100% {
+        opacity: 0;
+        width: 150%;
+        height: 150%;
+    }
+}
+
+@keyframes cp-widget-button-underlay {
+    0% {
+        opacity: .25;
+        width: 96%;
+        height: 96%;
+    }
+
+    40% {
+        opacity: .25;
+    }
+
+    100% {
+        opacity: 0;
+        width: 150%;
+        height: 150%;
+    }
+}
+
+[data-bluecoral-chat] *:focus {
+    outline: none !important;
+}
+
+[data-bluecoral-chat] input::-webkit-contacts-auto-fill-button {
+    visibility: hidden;
+}
+
+[data-bluecoral-chat] input[type="number"] {
+    text-align: left;
+    -moz-appearance: textfield;
+    /*Firefox*/
+}
+
+[data-bluecoral-chat] input[type=number]::-webkit-inner-spin-button,
+[data-bluecoral-chat] input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+}
+
+[data-bluecoral-chat] *,
+[data-bluecoral-chat] *::after,
+[data-bluecoral-chat] *::before {
+    box-sizing: border-box;
+}
+
+[data-bluecoral-chat] *,
+[data-bluecoral-chat] *::after,
+[data-bluecoral-chat] *::before {
+    box-sizing: border-box;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content-wrap] {
+    border-radius: 10px;
+    padding: 15px 20px;
+    background-color: white;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+[data-bluecoral-chat] [data-call-me-later-step-content] {
+    display: none;
+    position: relative;
+}
+
+[data-bluecoral-chat] [data-call-me-later-step-content].on {
+    display: block;
+}
+
+[data-bluecoral-chat] [data-call-me-later-step-content][data-name="step-01"] .bluecoral-box-wrap {
+    padding: 25px 15px;
+}
+
+@media screen and (min-width: 1024px) {
+    [data-bluecoral-chat] [data-call-me-later-step-content][data-name="step-01"] .bluecoral-box-wrap {
+        padding: 25px;
+    }
+}
+
+[data-bluecoral-chat] [data-call-me-later-step-content][data-name="step-02"] .bluecoral-box-wrap,
+[data-bluecoral-chat] [data-call-me-later-step-content][data-name="step-03"] .bluecoral-box-wrap {
+    padding: 35px 15px;
+}
+
+@media screen and (min-width: 1024px) {
+
+    [data-bluecoral-chat] [data-call-me-later-step-content][data-name="step-02"] .bluecoral-box-wrap,
+    [data-bluecoral-chat] [data-call-me-later-step-content][data-name="step-03"] .bluecoral-box-wrap {
+        padding: 40px 25px;
+    }
+}
+
+[data-bluecoral-chat] [data-call-me-later-step-content][data-name="step-02"] label {
+    display: block;
+    font-weight: 600;
+    margin-bottom: 7px;
+}
+
+[data-bluecoral-chat] [data-call-me-later-step-content][data-name="step-02"] .form-group {
+    margin-bottom: 15px;
+}
+
+[data-bluecoral-chat] [data-call-me-later-step-content] .hand {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+[data-bluecoral-chat] [data-call-me-later-step-content] .hand img {
+    width: 50px;
+    height: auto;
+    display: inline-block;
+}
+
+[data-bluecoral-chat] [data-call-me-later-step-content] .des {
+    text-align: center;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+[data-bluecoral-chat] [data-bluecoral-callback-form].w-skin-01 .input {
+    border: 1px solid #F1F1F1;
+    border-top-left-radius: 99999px;
+    border-bottom-left-radius: 99999px;
+    border-right: 0;
+    flex: 1;
+}
+
+[data-bluecoral-chat] [data-bluecoral-callback-form].w-skin-01 .input .bluecoral-form-control {
+    padding: 11px;
+    font-weight: bold;
+}
+
+[data-bluecoral-chat] [data-bluecoral-callback-form].w-skin-01 .wrap {
+    display: flex;
+    border-radius: 9999px;
+    margin-bottom: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+[data-bluecoral-chat] [data-bluecoral-callback-form].w-skin-01 [data-button] {
+    border-top-right-radius: 99999px;
+    border-bottom-right-radius: 99999px;
+    padding-right: 24px;
+    padding-left: 16px;
+    background-color: #F79719;
+    transition: background-color 300ms;
+}
+
+[data-bluecoral-chat] [data-bluecoral-callback-form].w-skin-01 [data-button]:hover {
+    background-color: #E77F11;
+}
+
+[data-bluecoral-chat] [data-bluecoral-callback-form].w-skin-01 [data-button] .bluecoral-txt {
+    display: block;
+    font-size: 12px;
+    line-height: 20px;
+    padding: 12px 0;
+    font-weight: 600;
+    color: white;
+}
+
+[data-bluecoral-chat] [data-bluecoral-callback-form].w-skin-01 .bluecoral-note {
+    font-size: 10px;
+    line-height: 11px;
+    margin-bottom: 5px;
+    display: block;
+}
+
+[data-bluecoral-chat] [data-bluecoral-callback-form].w-skin-01 .bluecoral-note i {
+    font-style: normal;
+    font-weight: 600;
+}
+
+[data-bluecoral-chat] [data-bluecoral-callback-form].w-skin-01 .bluecoral-call {
+    display: inline-flex;
+    align-items: center;
+    border-radius: 9999px;
+    border: 1px solid #F1F1F1;
+    padding: 0 12px;
+    transition: border-color .25s;
+}
+
+@media screen and (min-width: 1024px) {
+    [data-bluecoral-chat] [data-bluecoral-callback-form].w-skin-01 .bluecoral-call:hover {
+        border-color: #F79719;
+    }
+}
+
+[data-bluecoral-chat] [data-bluecoral-callback-form].w-skin-01 .bluecoral-call .bluecoral-txt {
+    font-size: 13px;
+    line-height: 14px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 6px;
+    color: #F79719;
+}
+
+[data-bluecoral-chat] [data-bluecoral-callback-form].w-skin-02 .bluecoral-group {
+    margin-bottom: 15px;
+}
+
+[data-bluecoral-chat] [data-bluecoral-callback-form].w-skin-02 .bluecoral-group.large {
+    margin-bottom: 25px;
+}
+
+[data-bluecoral-chat] [data-bluecoral-callback-form].w-skin-02 .bluecoral-label {
+    display: block;
+    margin-bottom: 7px;
+}
+
+[data-bluecoral-chat] [data-bluecoral-callback-form].w-skin-02 .bluecoral-form-control {
+    padding: 7px 15px;
+    border: 1px solid #F1F1F1;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+}
+
+[data-bluecoral-chat] .bluecoral-form-control.invalid {
+    box-shadow: 0 0 2px 1px #ac1f2d !important;
+}
+
+[data-bluecoral-chat] [data-bluecoral-callback-form].w-skin-02 .bluecoral-form-control:focus {
+    background-color: transparent !important;
+}
+
+[data-bluecoral-chat] [data-bluecoral-callback-form].w-skin-02 .bluecoral-ul {
+    display: flex;
+    align-items: center;
+}
+
+[data-bluecoral-chat] [data-bluecoral-callback-form].w-skin-02 .bluecoral-ul li {
+    width: 50%;
+}
+
+[data-bluecoral-chat] [data-bluecoral-callback-form].w-skin-02 [data-button] {
+    margin-bottom: 20px;
+}
+
+[data-bluecoral-chat] [data-button] .txt {
+  display: inline-block !important;
+    background-position: center right 2px;
+    background-repeat: no-repeat;
+    background-size: 18px;
+}
+
+[data-bluecoral-chat] [data-button].bluecorel-btn-loading .txt  {
+  padding-right: 30px;
+    background-image: url(../images/loading.gif);
+}
+
+[data-bluecoral-chat] .bluecoral-text-red {
+    color: #F01010;
+}
+
+[data-bluecoral-chat] [data-bluecoral-icon] {
+    position: relative;
+}
+
+[data-bluecoral-chat] [data-bluecoral-icon] [data-bluecoral-icon-title] {
+    position: absolute;
+    z-index: 1;
+    right: 100%;
+    padding-right: 12px;
+    top: 50%;
+    transform: translate3d(10px, -50%, 0);
+    transition: all .3s;
+    opacity: 0;
+    visibility: hidden;
+    white-space: nowrap;
+    color: #53BB01;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 14px;
+}
+
+[data-bluecoral-chat] [data-bluecoral-icon][data-bluecoral-icon-title-off] [data-bluecoral-icon-title] {
+    display: none;
+}
+
+[data-bluecoral-chat] [data-bluecoral-icon]:hover img {
+    transform: scale(0.95);
+}
+
+@media screen and (min-width: 1024px) {
+    [data-bluecoral-chat] [data-bluecoral-icon]:hover [data-bluecoral-icon-title] {
+        opacity: 1;
+        visibility: visible;
+        transform: translate3d(0, -50%, 0);
+    }
+}
+
+[data-bluecoral-chat] [data-bluecoral-icon] img {
+    position: relative;
+    z-index: 2;
+}
+
+[data-bluecoral-chat] [data-bluecoral-error-mss] {
+    margin-top: 10px;
+    color: #c92c2c;
+}
+
+[data-bluecoral-chat] .bluecoral-heading {
+    font-weight: 600;
+    color: #E77F11;
+    display: block;
+    margin-bottom: 10px;
+}
+
+[data-bluecoral-chat] .bluecoral-lets-chat-title {
+    background-color: rgba(255, 255, 255, 0.3);
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
+    min-width: 155px;
+    padding: 6px 15px;
+    margin-right: 15px;
+    margin-bottom: 18px;
+    border-radius: 9999px;
+    text-align: center;
+    cursor: pointer;
+    position: absolute;
+    z-index: 10;
+    bottom: 0;
+    right: 100%;
+}
+
+[data-bluecoral-chat] .bluecoral-lets-chat-title span {
+    display: block;
+    font-size: 13px;
+    line-height: 13px;
+    color: #F79719;
+    white-space: nowrap;
+}
+
+[data-bluecoral-chat] .bluecoral-lets-chat-switch {
+    width: 60px;
+    height: 60px;
+    background-color: #F79719;
+    transition: background-color 300ms;
+    border-radius: 9999px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+[data-bluecoral-chat] .bluecoral-lets-chat-switch [class^="bluecoral-icon"] {
+    color: white;
+    font-size: 26px;
+    position: relative;
+    z-index: 2;
+}
+
+[data-bluecoral-chat] .bluecoral-lets-chat-switch:hover {
+    background-color: #E77F11;
+}
+
+[data-bluecoral-chat] .bluecoral-lets-chat-switch.on:before {
+    display: none;
+}
+
+[data-bluecoral-chat] .bluecoral-lets-chat-switch:before {
+    content: "";
+    position: absolute;
+    z-index: 0;
+    width: 60px;
+    height: 60px;
+    top: 50%;
+    left: 50%;
+    transform: translate3d(-50%, -50%, 0);
+    animation: cp-widget-button-underlay 3s infinite;
+    background-color: #e77f11;
+    border-radius: 9999px;
+}
+
+[data-bluecoral-chat] .bluecoral-ul.w-skin-01 li {
+    margin-bottom: 8px;
+}
+
+[data-bluecoral-chat] .bluecoral-ul.w-skin-01 li:last-child {
+    margin-bottom: 0;
+}
+
+[data-bluecoral-chat] .bluecoral-ul .bluecoral-a {
+    display: block;
+}
+
+[data-bluecoral-chat] .bluecoral-svg {
+    transition: all .3s;
+    position: relative;
+    z-index: 2;
+    display: block;
+    width: 100%;
+    height: auto;
+    backface-visibility: hidden;
+    /* border-radius: 99999px; */
+    overflow: hidden;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content] {
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transition: transform 0.3s, opacity 0.3s, visibility 0.3s;
+    -moz-transition: transform 0.3s, opacity 0.3s, visibility 0.3s;
+    transition: transform 0.3s, opacity 0.3s, visibility 0.3s;
+    z-index: 999;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content]:not(.custom):not(.callback-now) {
+    margin-bottom: 10px;
+    position: absolute;
+    bottom: 100%;
+    right: 6px;
+
+    -webkit-transform: scale(0.7);
+    -moz-transform: scale(0.7);
+    -ms-transform: scale(0.7);
+    transform: scale(0.7);
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content]:not(.custom):not(.callback-now).on {
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].custom {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].custom .bluecoral-heading-wrap {
+    padding: 15px 25px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: #F79719;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].custom .bluecoral-box-wrap {
+    padding: 25px;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].custom .heading {
+    display: block;
+    color: white;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].custom .bluecoral-box {
+    position: absolute;
+    max-width: 410px;
+    width: calc(100% - 30px);
+    position: relative;
+    z-index: 20;
+    left: 50%;
+    top: 50%;
+    transform: translate3d(-50%, -50%, 0);
+}
+
+@media screen (min-width: 768px) {
+    [data-bluecoral-chat] [data-bluecoral-chat-content].custom .bluecoral-box {
+        width: 100%;
+    }
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].custom .bluecoral-overlay {
+    position: fixed;
+    z-index: 10;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].custom .bluecoral-radio {
+    position: relative;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].custom .bluecoral-radio label {
+    display: block;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 30px;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].custom .bluecoral-radio label:before,
+[data-bluecoral-chat] [data-bluecoral-chat-content].custom .bluecoral-radio label:after {
+    content: "";
+    position: absolute;
+    border-radius: 9999px;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].custom .bluecoral-radio label:before {
+    left: 0;
+    top: 0;
+    z-index: 1;
+    width: 20px;
+    height: 20px;
+    border: 1px solid #DEDEDE;
+    background-color: #fff;
+    transition: border-color .2s;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].custom .bluecoral-radio label:after {
+    z-index: 2;
+    width: 12px;
+    height: 12px;
+    background-color: #F79719;
+    opacity: 0;
+    top: 4px;
+    left: 4px;
+    transition: opacity .2s;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].custom .bluecoral-radio input {
+    display: none;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].custom .bluecoral-radio input:checked+label:before {
+    border-color: #F79719;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].custom .bluecoral-radio input:checked+label:after {
+    opacity: 1;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].callback-now {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].callback-now .bluecoral-box-wrap {
+    max-width: 550px;
+    margin: auto;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].callback-now .bluecoral-box {
+    position: absolute;
+    max-width: 700px;
+    width: calc(100% - 30px);
+    position: relative;
+    z-index: 20;
+    left: 50%;
+    top: 50%;
+    transform: translate3d(-50%, -50%, 0);
+}
+
+@media screen and (min-width: 768px) {
+  [data-bluecoral-chat] [data-bluecoral-chat-content].callback-now .bluecoral-box {
+    width: 100%;
+  }
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].callback-now .bluecoral-copyright {
+    position: absolute;
+    z-index: 10;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: 12px;
+    padding-top: 10px;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].callback-now .bluecoral-copyright a {
+    font-weight: bold;
+    transition: color .25s;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].callback-now .bluecoral-copyright a:hover {
+    color: #F79719;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].callback-now .bluecoral-overlay {
+    position: fixed;
+    z-index: 10;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].callback-now .callback-now-tabs {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].callback-now .callback-now-tabs a {
+    padding: 10px 5px;
+    flex: 1;
+    text-align: center;
+    position: relative;
+}
+
+@media screen and (min-width: 1024px) {
+    [data-bluecoral-chat] [data-bluecoral-chat-content].callback-now .callback-now-tabs a {
+        padding: 10px 15px;
+    }
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].callback-now .callback-now-tabs a .txt {
+    transition: color .25s;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].callback-now .callback-now-tabs a:after {
+    content: "";
+    position: absolute;
+    z-index: 1;
+    width: 1px;
+    height: 70%;
+    background-color: #e0e0e0;
+    right: 0;
+    top: 50%;
+    transform: translate3d(0, -50%, 0);
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].callback-now .callback-now-tabs a:last-child:after {
+    display: none;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].callback-now .callback-now-tabs a.on .txt {
+    color: #F79719;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].callback-now .callback-now-tabs a.on [class^="bluecoral-icon"] {
+    color: #F79719;
+}
+
+@media screen and (min-width: 1024px) {
+    [data-bluecoral-chat] [data-bluecoral-chat-content].callback-now .callback-now-tabs a:hover .txt {
+        color: #F79719;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    [data-bluecoral-chat] [data-bluecoral-chat-content].callback-now .callback-now-tabs a:hover [class^="bluecoral-icon"] {
+        color: #F79719;
+    }
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].callback-now .callback-now-tabs [class^="bluecoral-icon"] {
+    width: 25px;
+    height: 25px;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 7px;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].callback-now .callback-now-tabs-content {
+    padding: 20px 0 15px;
+}
+
+@media screen and (min-width: 1024px) {
+    [data-bluecoral-chat] [data-bluecoral-chat-content].callback-now .callback-now-tabs-content {
+        padding: 30px 0 15px;
+    }
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].callback-now .callback-now-list {
+    display: flex;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].callback-now .callback-now-list+.callback-now-list {
+    margin-top: 15px;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].callback-now .callback-now-list.w-skin-01 .callback-now-item:first-child {
+    height: 100%;
+    padding-right: 15px;
+    flex: 1;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].callback-now .callback-now-list.w-skin-01 .callback-now-item:last-child {
+    width: 150px;
+}
+
+@media screen and (min-width: 1024px) {
+    [data-bluecoral-chat] [data-bluecoral-chat-content].callback-now .callback-now-list.w-skin-01 .callback-now-item:last-child {
+        width: 170px;
+    }
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].callback-now .callback-now-list.w-skin-01 .bluecoral-btn.bluecoral-btn-link {
+    height: auto;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].callback-now .callback-now-list.w-skin-02 {
+    margin: 0 -7.5px;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].callback-now .callback-now-list.w-skin-02 .callback-now-item {
+    width: 50%;
+    padding: 0 7.5px;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].callback-now .callback-now-list.w-skin-02 textarea {
+    min-height: 100%;
+    height: 0;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].callback-now .callback-now-notice {
+    display: block;
+    text-align: center;
+    margin-top: 15px;
+}
+
+@media screen and (min-width: 1024px) {
+    [data-bluecoral-chat] [data-bluecoral-chat-content].callback-now .callback-now-notice {
+        margin-top: 20px;
+    }
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].callback-now .callback-now-note {
+    display: block;
+    text-align: center;
+    margin-top: 25px;
+}
+
+@media screen and (min-width: 1024px) {
+    [data-bluecoral-chat] [data-bluecoral-chat-content].callback-now .callback-now-note {
+        margin-top: 40px;
+    }
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].callback-now select::-ms-expand {
+    display: none;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].callback-now textarea {
+    resize: none;
+    /*outline: none;*/
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].callback-now .select select {
+    background-color: #fff;
+    padding: 12px 15px;
+    border: 1px solid #F1F1F1;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+    width: 100%;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].callback-now .bluecoral-form-control {
+    background-color: #fff;
+    border: 1px solid #F1F1F1;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+    padding: 12px 15px;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].callback-now .callback-now-heading {
+    font-weight: 600;
+    display: block;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+@media screen and (min-width: 1024px) {
+    [data-bluecoral-chat] [data-bluecoral-chat-content].callback-now .callback-now-heading {
+        font-size: 26px;
+    }
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].callback-now .callback-now-sub-item {
+    margin-bottom: 15px;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].callback-now .callback-now-sub-item:last-child {
+    margin-bottom: 0;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].on {
+    opacity: 1;
+    visibility: visible;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content] .phone-group {
+    position: relative;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content] .phone-group.small .bluecoral-form-control {
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content] .phone-group.large .bluecoral-form-control {
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content] .phone-group.large [class^="bluecoral-icon"] {
+    width: 22px;
+    font-size: 21px;
+}
+
+@media screen and (min-width: 1024px) {
+    [data-bluecoral-chat] [data-bluecoral-chat-content] .phone-group.large [class^="bluecoral-icon"] {
+        width: 25px;
+        font-size: 24px;
+    }
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content] .phone-group.medium .bluecoral-form-control {
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content] .phone-group.medium [class^="bluecoral-icon"] {
+    width: 18px;
+    font-size: 18px;
+}
+
+@media screen and (min-width: 1024px) {
+    [data-bluecoral-chat] [data-bluecoral-chat-content] .phone-group.medium [class^="bluecoral-icon"] {
+        width: 20px;
+        font-size: 20px;
+    }
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content] .phone-group [class^="bluecoral-icon"] {
+    position: absolute;
+    z-index: 10;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content] .phone-group.small [class^="bluecoral-icon"] {
+    width: 16px;
+    font-size: 16px;
+    
+}
+
+@media screen and (min-width: 1024px) {
+    [data-bluecoral-chat] [data-bluecoral-chat-content] .phone-group.small [class^="bluecoral-icon"] {
+        width: 18px;
+        font-size: 18px;
+        
+    }
+    [data-bluecoral-chat] [data-bluecoral-chat-content] .phone-group [class^="bluecoral-icon"] {
+      left: 15px;
+    }
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content] .phone-group .bluecoral-form-control {
+    padding-right: 15px;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content] .phone-group.small .bluecoral-form-control {
+    padding-left: 40px;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content] .phone-group.medium .bluecoral-form-control {
+    padding-left: 45px;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content] .phone-group.large .bluecoral-form-control {
+    padding-left: 45px;
+}
+
+@media screen and (min-width: 768px) {
+  [data-bluecoral-chat] [data-bluecoral-chat-content] .phone-group.small .bluecoral-form-control {
+      padding-left: 45px;
+  }
+  [data-bluecoral-chat] [data-bluecoral-chat-content] .phone-group.medium .bluecoral-form-control {
+      padding-left: 50px;
+  }
+
+  [data-bluecoral-chat] [data-bluecoral-chat-content] .phone-group.large .bluecoral-form-control {
+      padding-left: 50px;
+  }
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content] .bluecoral-box {
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].w-skin-04 {
+    width: 410px;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].w-skin-04 .bluecoral-box-wrap {
+    padding: 15px 25px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: #F79719;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].w-skin-01 {
+    width: 48px;
+}
+
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].w-skin-03 {
+    width: 275px;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].w-skin-03 .top {
+    border-radius: 10px;
+    padding: 15px;
+    background-color: #fff;
+    margin-bottom: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].w-skin-03 .top .des {
+    margin-top: 10px;
+    font-size: 13px;
+    line-height: 20px;
+    color: #3B3B3B;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].w-skin-03 .account {
+    display: flex;
+    align-items: center;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].w-skin-03 .account .title {
+    display: block;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 13px;
+    color: rgba(59, 59, 59, 0.7);
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].w-skin-03 .account .sub {
+    display: 300px;
+    font-size: 13px;
+    line-height: 13px;
+    margin-left: 3px;
+    color: #9B9A9B;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].w-skin-03 .avatar {
+    width: 32px;
+    height: 32px;
+    border-radius: 9999px;
+    margin-right: 7.5px;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].w-skin-03 img {
+    border-radius: 99px;
+    border: 2px solid #cccccc6b;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].w-skin-02 {
+    width: 300px;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].w-skin-02 .bluecoral-box {
+    padding: 20px;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].w-skin-02 .bluecoral-box-wrap {
+    max-width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content].w-skin-02 .bluecoral-box-wrap .bluecoral-txt {
+    display: block;
+    font-weight: 600;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content] .bluecoral-close {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 25px;
+    height: 25px;
+    border-radius: 9999px;
+    transition: background-color .3s;
+    margin-bottom: 10px;
+    margin-left: auto;
+    z-index: 20;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content] .bluecoral-close .bluecoral-icon-close-outline {
+    font-size: 10px;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content] .bluecoral-close:not(.w-white) {
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content] .bluecoral-close:not(.w-white) .bluecoral-icon-close-outline {
+    color: white;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content] .bluecoral-close:not(.w-white):hover {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content] .bluecoral-close.w-white {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    background-color: white;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content] .bluecoral-close.w-white .bluecoral-icon-close-outline {
+    color: black;
+}
+
+[data-bluecoral-chat] [data-bluecoral-chat-content] .bluecoral-close.w-white:hover {
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+[data-bluecoral-chat] [data-bluecoral-error-mss] {
+    display: none;
+}
+
+[data-bluecoral-chat] [data-bluecoral-error-mss].on {
+    display: block;
+}
+
+[data-bluecoral-chat] [data-bluecoral-switch-element] {
+    -webkit-transition: transform 0.3s, background-color 0.3s;
+    -moz-transition: transform 0.3s, background-color 0.3s;
+    transition: transform 0.3s, background-color 0.3s;
+}
+
+[data-bluecoral-chat] [data-bluecoral-switch-element].on {
+    -webkit-transform: scale(0.75);
+    -moz-transform: scale(0.75);
+    -ms-transform: scale(0.75);
+    transform: scale(0.75);
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+[data-bluecoral-chat] [data-bluecoral-switch-element].on:hover {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+[data-bluecoral-chat] [data-bluecoral-switch-element].on [class^="bluecoral-icon"] {
+    color: white;
+    font-size: 14px;
+}
+
+[data-bluecoral-chat] [data-bluecoral-switch-element].on [class^="bluecoral-icon"]:before {
+    content: "\e901";
+}
+
+[data-bluecoral-chat] [data-bluecoral-label-element] {
+    -webkit-transition: transform 0.3s, opacity 0.3s, visibility 0.3s;
+    -moz-transition: transform 0.3s, opacity 0.3s, visibility 0.3s;
+    transition: transform 0.3s, opacity 0.3s, visibility 0.3s;
+}
+
+[data-bluecoral-chat] [data-bluecoral-label-element].off {
+    opacity: 0;
+    visibility: hidden;
+    transform: translate3d(10px, 0, 0);
+}
+
+[data-bluecoral-chat] [data-bluecoral-more-element] {
+    -webkit-transition: transform 0.3s, opacity 0.3s, visibility 0.3s;
+    -moz-transition: transform 0.3s, opacity 0.3s, visibility 0.3s;
+    transition: transform 0.3s, opacity 0.3s, visibility 0.3s;
+}
+
+[data-bluecoral-chat] [data-bluecoral-more-element].off {
+    -webkit-transform: scale(0.7);
+    -moz-transform: scale(0.7);
+    -ms-transform: scale(0.7);
+    transform: scale(0.7);
+    opacity: 0;
+    visibility: hidden;
+}

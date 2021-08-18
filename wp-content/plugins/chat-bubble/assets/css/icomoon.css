@@ -1,0 +1,51 @@
+@font-face {
+  font-family: 'bluecoral_icomoon';
+  src:  url('../fonts/bluecoral_icomoon.eot?723445');
+  src:  url('../fonts/bluecoral_icomoon.eot?723445#iefix') format('embedded-opentype'),
+    url('../fonts/bluecoral_icomoon.ttf?723445') format('truetype'),
+    url('../fonts/bluecoral_icomoon.woff?723445') format('woff'),
+    url('../fonts/bluecoral_icomoon.svg?723445#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'bluecoral_icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-chat:before {
+  content: "\e900";
+}
+.icon-close-outline:before {
+  content: "\e901";
+}
+.icon-message:before {
+  content: "\e902";
+}
+.icon-more:before {
+  content: "\e903";
+}
+.icon-phone:before {
+  content: "\e904";
+}
+.icon-phone-ver02:before {
+  content: "\e905";
+}
+.icon-select:before {
+  content: "\e906";
+}
+.icon-timer:before {
+  content: "\e907";
+}
